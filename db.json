@@ -1,0 +1,6035 @@
+{
+  "users": [
+    {
+      "id": "user_seed_9091",
+      "username": "Trendexplorer",
+      "email": "jannatchohan821@gmail.com",
+      "passwordHash": "6c6a496921618295316e399a5b526429e77bd5383abb89b87224171f19c99d0d",
+      "salt": "70e0a909693902cb",
+      "profilePicture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=256&auto=format&fit=crop",
+      "badges": [
+        "Starter Insight",
+        "Streak Explorer"
+      ],
+      "streak": 2,
+      "predictionCount": 5,
+      "themePreference": "dark",
+      "lastLoginDate": "2026-06-06"
+    },
+    {
+      "id": "user_23f88845",
+      "username": "zainab",
+      "email": "zainabchohan91@gmail.com",
+      "passwordHash": "c5ccc572db80d4c17d0bccefb8ce06ae3465b9c4f032b3572dd5d7193893a9df",
+      "salt": "f122a710498ca367",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Lovelace",
+      "badges": [
+        "Trend Novice"
+      ],
+      "streak": 2,
+      "predictionCount": 3,
+      "themePreference": "light",
+      "lastLoginDate": "2026-06-06"
+    },
+    {
+      "id": "user_334830ba",
+      "username": "Trendexplorer_1",
+      "email": "jannatchohan881@gmail.com",
+      "passwordHash": "875b9b22226a31bb092a640d741e85cbf5fc582ffdd23cd8678391ff576bf545",
+      "salt": "12b4faf902fd599b",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Trendexplorer",
+      "badges": [
+        "Trend Novice"
+      ],
+      "streak": 1,
+      "predictionCount": 1,
+      "themePreference": "gradient",
+      "lastLoginDate": "2026-06-06"
+    },
+    {
+      "id": "user_9117a4d7",
+      "username": "jinny",
+      "email": "jannatchohan1@gmail.com",
+      "passwordHash": "d75a099f9f21c3f26858a567e79ffa862d8fea1016f8a1fa5583921de66f0b52",
+      "salt": "2eab6d58cdb9200e",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Curie",
+      "badges": [
+        "Trend Novice"
+      ],
+      "streak": 1,
+      "predictionCount": 1,
+      "themePreference": "gradient",
+      "lastLoginDate": "2026-06-06"
+    },
+    {
+      "id": "user_213b7fdc",
+      "username": "Ali Chohan",
+      "email": "alichohan881@gmail.com",
+      "passwordHash": "39a49fa9c7eb19909c830a25d7e16264337a74e8b2539f274a7938651bc1130d",
+      "salt": "216f3bb27abb36fa",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Ali%20Chohan",
+      "badges": [
+        "Trend Novice"
+      ],
+      "streak": 1,
+      "predictionCount": 1,
+      "themePreference": "dark",
+      "lastLoginDate": "2026-06-06"
+    },
+    {
+      "id": "user_c9ae6bb0",
+      "username": "Abdullah",
+      "email": "abdullah.skills26@gmail.com",
+      "passwordHash": "6138e4baf34c858ed17461496533d59a5360e1cf9f191996cd7838e7c7d22eee",
+      "salt": "277ef4d8822e52bc",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Abdullah",
+      "badges": [
+        "Trend Novice"
+      ],
+      "streak": 1,
+      "predictionCount": 3,
+      "themePreference": "dark",
+      "lastLoginDate": "2026-06-06"
+    },
+    {
+      "id": "user_7b893f3d",
+      "username": "Muhammad Abdullah",
+      "email": "abdullah.skills@gmail.com",
+      "passwordHash": "f519f414087d245300bc878d717358a49d7062a94ac6b12014de9cef3495112c",
+      "salt": "21fdaa5f1c4a03b9",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Muhammad%20Abdullah",
+      "badges": [
+        "Trend Novice",
+        "Elite Predictor"
+      ],
+      "streak": 1,
+      "predictionCount": 8,
+      "themePreference": "light",
+      "lastLoginDate": "2026-06-05"
+    },
+    {
+      "id": "user_47947808",
+      "username": "Muhammad Abdullah_1",
+      "email": "abdullah@demo123gmail.com",
+      "passwordHash": "a15bd462957df21e5cb0a266da1e8314955339ae30be1a6c24a4541ecef536d6",
+      "salt": "3446b84aea79855b",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Muhammad%20Abdullah",
+      "badges": [
+        "Trend Novice"
+      ],
+      "streak": 1,
+      "predictionCount": 3,
+      "themePreference": "gradient",
+      "lastLoginDate": "2026-06-06"
+    },
+    {
+      "id": "user_19312858",
+      "username": "Tayyab",
+      "email": "tayyab123@gmail.com",
+      "passwordHash": "810ddd980d9ee3882c28530534d27ad90529c5cd2de3c3fbaad0c6226accd823",
+      "salt": "ec8b70aeff97c607",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Tayyab",
+      "badges": [
+        "Trend Novice"
+      ],
+      "streak": 1,
+      "predictionCount": 6,
+      "themePreference": "light",
+      "lastLoginDate": "2026-06-05"
+    },
+    {
+      "id": "user_677d9c04",
+      "username": "Muhammad Abdullah_2",
+      "email": "abdullah123@gmail.com",
+      "passwordHash": "28e20a03ece0e151f7407c86fec8ae86c5e99576aba55cd1ad4f105a5ed7019c",
+      "salt": "1d64f0cd7a4ecfbc",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Muhammad%20Abdullah",
+      "badges": [
+        "Trend Novice"
+      ],
+      "streak": 1,
+      "predictionCount": 3,
+      "themePreference": "dark",
+      "lastLoginDate": "2026-06-05"
+    },
+    {
+      "id": "user_2ffea926",
+      "username": "Jeon Jinny",
+      "email": "jinnypark207@gmail.com",
+      "passwordHash": "053fd8e06b8da4c54f5ebf2c54e6935893ca65fdbecac29d6809c844638eb08a81f7504ff26eef6a1b2daa1968648ab88242425655193e27d2412d19bcf13f84",
+      "salt": "469cb965d7c02a60",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Hawking",
+      "badges": [
+        "Trend Novice",
+        "First Predictions",
+        "Elite Predictor",
+        "Grandmaster Oracle"
+      ],
+      "streak": 1,
+      "predictionCount": 12,
+      "themePreference": "light",
+      "lastLoginDate": "2026-06-06"
+    }
+  ],
+  "predictions": [
+    {
+      "id": "pred_seed_1",
+      "userId": "user_seed_9091",
+      "query": "Artificial Intelligence in Legal Services",
+      "category": "Technology",
+      "direction": "rising",
+      "confidence": 88,
+      "summary": "AI integrations under LegalTech are expanding rapidly, reducing legal document analysis time from days to minutes. AI-driven contract drafting is becoming an industry standard.",
+      "insights": [
+        "Generative language models are automating contract creation with 95% baseline accuracy.",
+        "Regulatory alignment and data privacy requirements are driving custom legal models.",
+        "Corporate legal departments report up to a 40% reduction in external council costs.",
+        "Emerging focus is shifting toward AI-assisted predictive analytics for courtroom behavior."
+      ],
+      "keywords": [
+        {
+          "word": "LegalTech AI",
+          "trend": "rising",
+          "weight": 95
+        },
+        {
+          "word": "Contract Automation",
+          "trend": "rising",
+          "weight": 89
+        },
+        {
+          "word": "Compliance AI",
+          "trend": "stable",
+          "weight": 70
+        },
+        {
+          "word": "e-Discovery",
+          "trend": "falling",
+          "weight": 45
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Month 1",
+          "value": 35
+        },
+        {
+          "month": "Month 2",
+          "value": 42
+        },
+        {
+          "month": "Month 3",
+          "value": 48
+        },
+        {
+          "month": "Month 4",
+          "value": 50
+        },
+        {
+          "month": "Month 5",
+          "value": 59
+        },
+        {
+          "month": "Month 6",
+          "value": 68
+        },
+        {
+          "month": "Month 7",
+          "value": 74
+        },
+        {
+          "month": "Month 8",
+          "value": 81
+        },
+        {
+          "month": "Month 9",
+          "value": 85
+        },
+        {
+          "month": "Month 10",
+          "value": 92
+        },
+        {
+          "month": "Month 11",
+          "value": 98
+        },
+        {
+          "month": "Month 12",
+          "value": 105
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 15
+        },
+        {
+          "year": "2023",
+          "interest": 30
+        },
+        {
+          "year": "2024",
+          "interest": 52
+        },
+        {
+          "year": "2025",
+          "interest": 78
+        },
+        {
+          "year": "2026",
+          "interest": 85
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-05-26T11:59:25.370Z"
+    },
+    {
+      "id": "pred_seed_2",
+      "userId": "user_seed_9091",
+      "query": "Legacy Mainframe Infrastructure",
+      "category": "Business",
+      "direction": "falling",
+      "confidence": 76,
+      "summary": "Enterprises are actively migrating from on-prem legacy mainframes to hybrid cloud environments at an accelerated pace to handle high operational expenses.",
+      "insights": [
+        "Clonable cloud architectures and virtual emulators are displacing ancient hardware setups.",
+        "Retirements of COBOL specialists are producing severe maintenance talent deficits.",
+        "Upkeep of localized servers is proving 150% more costly than managed cloud databases.",
+        "Green IT initiatives are applying severe pressure on power-inefficient terminal stacks."
+      ],
+      "keywords": [
+        {
+          "word": "Legacy Modernization",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "COBOL Talents",
+          "trend": "falling",
+          "weight": 20
+        },
+        {
+          "word": "Mainframe Upkeep",
+          "trend": "falling",
+          "weight": 35
+        },
+        {
+          "word": "Cloud Hybrid",
+          "trend": "rising",
+          "weight": 84
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Month 1",
+          "value": 85
+        },
+        {
+          "month": "Month 2",
+          "value": 82
+        },
+        {
+          "month": "Month 3",
+          "value": 79
+        },
+        {
+          "month": "Month 4",
+          "value": 75
+        },
+        {
+          "month": "Month 5",
+          "value": 68
+        },
+        {
+          "month": "Month 6",
+          "value": 60
+        },
+        {
+          "month": "Month 7",
+          "value": 55
+        },
+        {
+          "month": "Month 8",
+          "value": 48
+        },
+        {
+          "month": "Month 9",
+          "value": 42
+        },
+        {
+          "month": "Month 10",
+          "value": 38
+        },
+        {
+          "month": "Month 11",
+          "value": 30
+        },
+        {
+          "month": "Month 12",
+          "value": 24
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 98
+        },
+        {
+          "year": "2023",
+          "interest": 92
+        },
+        {
+          "year": "2024",
+          "interest": 88
+        },
+        {
+          "year": "2025",
+          "interest": 82
+        },
+        {
+          "year": "2026",
+          "interest": 77
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-05-25T11:59:25.376Z"
+    },
+    {
+      "id": "pred_13d09a7b",
+      "userId": "user_23f88845",
+      "query": "jeans",
+      "category": "Society",
+      "direction": "rising",
+      "confidence": 93,
+      "summary": "The demand index for jeans is accelerating. Robust investment, strong open-source developer engagement, and corporate alignment are establishing major industry tailwinds.",
+      "insights": [
+        "Venture inflows for jeans have scaled up by roughly 120% year-on-year over consecutive cycles.",
+        "Integration metrics highlight an optimization growth trajectory that is outperforming traditional tools.",
+        "Consumer interest indicators peak in critical technical urban hubs, proving early mainstream adoption patterns.",
+        "Analytical constraints exist regarding cross-platform tooling support, but hardware improvements are mitigating this."
+      ],
+      "keywords": [
+        {
+          "word": "jeans integration",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "Autonomous setups",
+          "trend": "rising",
+          "weight": 81
+        },
+        {
+          "word": "Legacy adoption",
+          "trend": "falling",
+          "weight": 30
+        },
+        {
+          "word": "Cost compliance",
+          "trend": "stable",
+          "weight": 65
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 85
+        },
+        {
+          "month": "Feb",
+          "value": 87
+        },
+        {
+          "month": "Mar",
+          "value": 89
+        },
+        {
+          "month": "Apr",
+          "value": 91
+        },
+        {
+          "month": "May",
+          "value": 93
+        },
+        {
+          "month": "Jun",
+          "value": 95
+        },
+        {
+          "month": "Jul",
+          "value": 97
+        },
+        {
+          "month": "Aug",
+          "value": 99
+        },
+        {
+          "month": "Sep",
+          "value": 101
+        },
+        {
+          "month": "Oct",
+          "value": 103
+        },
+        {
+          "month": "Nov",
+          "value": 105
+        },
+        {
+          "month": "Dec",
+          "value": 107
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 25
+        },
+        {
+          "year": "2023",
+          "interest": 40
+        },
+        {
+          "year": "2024",
+          "interest": 55
+        },
+        {
+          "year": "2025",
+          "interest": 70
+        },
+        {
+          "year": "2026",
+          "interest": 83
+        }
+      ],
+      "modelUsed": "Linear Regression",
+      "createdAt": "2026-05-26T12:02:02.968Z"
+    },
+    {
+      "id": "pred_828a52fc",
+      "userId": "user_23f88845",
+      "query": "jeans",
+      "category": "Technology",
+      "direction": "rising",
+      "confidence": 93,
+      "summary": "The demand index for jeans is accelerating. Robust investment, strong open-source developer engagement, and corporate alignment are establishing major industry tailwinds.",
+      "insights": [
+        "Venture inflows for jeans have scaled up by roughly 120% year-on-year over consecutive cycles.",
+        "Integration metrics highlight an optimization growth trajectory that is outperforming traditional tools.",
+        "Consumer interest indicators peak in critical technical urban hubs, proving early mainstream adoption patterns.",
+        "Analytical constraints exist regarding cross-platform tooling support, but hardware improvements are mitigating this."
+      ],
+      "keywords": [
+        {
+          "word": "jeans integration",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "Autonomous setups",
+          "trend": "rising",
+          "weight": 81
+        },
+        {
+          "word": "Legacy adoption",
+          "trend": "falling",
+          "weight": 30
+        },
+        {
+          "word": "Cost compliance",
+          "trend": "stable",
+          "weight": 65
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 85
+        },
+        {
+          "month": "Feb",
+          "value": 87
+        },
+        {
+          "month": "Mar",
+          "value": 89
+        },
+        {
+          "month": "Apr",
+          "value": 91
+        },
+        {
+          "month": "May",
+          "value": 93
+        },
+        {
+          "month": "Jun",
+          "value": 95
+        },
+        {
+          "month": "Jul",
+          "value": 97
+        },
+        {
+          "month": "Aug",
+          "value": 99
+        },
+        {
+          "month": "Sep",
+          "value": 101
+        },
+        {
+          "month": "Oct",
+          "value": 103
+        },
+        {
+          "month": "Nov",
+          "value": 105
+        },
+        {
+          "month": "Dec",
+          "value": 107
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 25
+        },
+        {
+          "year": "2023",
+          "interest": 40
+        },
+        {
+          "year": "2024",
+          "interest": 55
+        },
+        {
+          "year": "2025",
+          "interest": 70
+        },
+        {
+          "year": "2026",
+          "interest": 83
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-05-26T12:02:13.213Z"
+    },
+    {
+      "id": "pred_570f248d",
+      "userId": "user_23f88845",
+      "query": "hot",
+      "category": "Climate",
+      "direction": "falling",
+      "confidence": 81,
+      "summary": "The market indices for hot demonstrate downward correction. Transition costs, technical complex state requirements, and substitution technologies are causing gradual migration away from this topic.",
+      "insights": [
+        "Alternative standards are capturing market share, proving 3x higher throughput efficiencies.",
+        "Specialists and developers report major cognitive overheads and maintenance difficulties.",
+        "Inquiries and public forum discussions on this specific architecture have cooled down by 45% since early peak periods.",
+        "Legacy systems still maintain defensive usage, but strategic multi-year funding is heavily favoring alternative setups."
+      ],
+      "keywords": [
+        {
+          "word": "hot migration",
+          "trend": "rising",
+          "weight": 88
+        },
+        {
+          "word": "Legacy hot",
+          "trend": "falling",
+          "weight": 25
+        },
+        {
+          "word": "Cloud transformation",
+          "trend": "rising",
+          "weight": 91
+        },
+        {
+          "word": "Maintenance costs",
+          "trend": "stable",
+          "weight": 75
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 16
+        },
+        {
+          "month": "Feb",
+          "value": 13
+        },
+        {
+          "month": "Mar",
+          "value": 10
+        },
+        {
+          "month": "Apr",
+          "value": 7
+        },
+        {
+          "month": "May",
+          "value": 5
+        },
+        {
+          "month": "Jun",
+          "value": 5
+        },
+        {
+          "month": "Jul",
+          "value": 5
+        },
+        {
+          "month": "Aug",
+          "value": 5
+        },
+        {
+          "month": "Sep",
+          "value": 5
+        },
+        {
+          "month": "Oct",
+          "value": 5
+        },
+        {
+          "month": "Nov",
+          "value": 5
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 77
+        },
+        {
+          "year": "2023",
+          "interest": 62
+        },
+        {
+          "year": "2024",
+          "interest": 47
+        },
+        {
+          "year": "2025",
+          "interest": 32
+        },
+        {
+          "year": "2026",
+          "interest": 19
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-05-26T12:02:57.325Z"
+    },
+    {
+      "id": "pred_f2712785",
+      "userId": "user_334830ba",
+      "query": "horror movies",
+      "category": "Entertainment",
+      "direction": "falling",
+      "confidence": 68,
+      "summary": "The market indices for horror movies demonstrate downward correction. Transition costs, technical complex state requirements, and substitution technologies are causing gradual migration away from this topic.",
+      "insights": [
+        "Alternative standards are capturing market share, proving 3x higher throughput efficiencies.",
+        "Specialists and developers report major cognitive overheads and maintenance difficulties.",
+        "Inquiries and public forum discussions on this specific architecture have cooled down by 45% since early peak periods.",
+        "Legacy systems still maintain defensive usage, but strategic multi-year funding is heavily favoring alternative setups."
+      ],
+      "keywords": [
+        {
+          "word": "horror movies migration",
+          "trend": "rising",
+          "weight": 88
+        },
+        {
+          "word": "Legacy horror movies",
+          "trend": "falling",
+          "weight": 25
+        },
+        {
+          "word": "Cloud transformation",
+          "trend": "rising",
+          "weight": 91
+        },
+        {
+          "word": "Maintenance costs",
+          "trend": "stable",
+          "weight": 75
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 25
+        },
+        {
+          "month": "Feb",
+          "value": 22
+        },
+        {
+          "month": "Mar",
+          "value": 19
+        },
+        {
+          "month": "Apr",
+          "value": 16
+        },
+        {
+          "month": "May",
+          "value": 13
+        },
+        {
+          "month": "Jun",
+          "value": 10
+        },
+        {
+          "month": "Jul",
+          "value": 7
+        },
+        {
+          "month": "Aug",
+          "value": 5
+        },
+        {
+          "month": "Sep",
+          "value": 5
+        },
+        {
+          "month": "Oct",
+          "value": 5
+        },
+        {
+          "month": "Nov",
+          "value": 5
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 86
+        },
+        {
+          "year": "2023",
+          "interest": 71
+        },
+        {
+          "year": "2024",
+          "interest": 56
+        },
+        {
+          "year": "2025",
+          "interest": 41
+        },
+        {
+          "year": "2026",
+          "interest": 28
+        }
+      ],
+      "modelUsed": "Linear Regression",
+      "createdAt": "2026-05-26T12:06:40.201Z"
+    },
+    {
+      "id": "pred_f70e68db",
+      "userId": "user_9117a4d7",
+      "query": "optic things",
+      "category": "Healthcare",
+      "direction": "rising",
+      "confidence": 72,
+      "summary": "The demand index for optic things is accelerating. Robust investment, strong open-source developer engagement, and corporate alignment are establishing major industry tailwinds.",
+      "insights": [
+        "Venture inflows for optic things have scaled up by roughly 120% year-on-year over consecutive cycles.",
+        "Integration metrics highlight an optimization growth trajectory that is outperforming traditional tools.",
+        "Consumer interest indicators peak in critical technical urban hubs, proving early mainstream adoption patterns.",
+        "Analytical constraints exist regarding cross-platform tooling support, but hardware improvements are mitigating this."
+      ],
+      "keywords": [
+        {
+          "word": "optic things integration",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "Autonomous setups",
+          "trend": "rising",
+          "weight": 81
+        },
+        {
+          "word": "Legacy adoption",
+          "trend": "falling",
+          "weight": 30
+        },
+        {
+          "word": "Cost compliance",
+          "trend": "stable",
+          "weight": 65
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 94
+        },
+        {
+          "month": "Feb",
+          "value": 96
+        },
+        {
+          "month": "Mar",
+          "value": 98
+        },
+        {
+          "month": "Apr",
+          "value": 100
+        },
+        {
+          "month": "May",
+          "value": 102
+        },
+        {
+          "month": "Jun",
+          "value": 104
+        },
+        {
+          "month": "Jul",
+          "value": 106
+        },
+        {
+          "month": "Aug",
+          "value": 108
+        },
+        {
+          "month": "Sep",
+          "value": 110
+        },
+        {
+          "month": "Oct",
+          "value": 112
+        },
+        {
+          "month": "Nov",
+          "value": 114
+        },
+        {
+          "month": "Dec",
+          "value": 115
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 34
+        },
+        {
+          "year": "2023",
+          "interest": 49
+        },
+        {
+          "year": "2024",
+          "interest": 64
+        },
+        {
+          "year": "2025",
+          "interest": 79
+        },
+        {
+          "year": "2026",
+          "interest": 92
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-05-26T13:21:15.812Z"
+    },
+    {
+      "id": "pred_d372e1cf",
+      "userId": "user_213b7fdc",
+      "query": "VS code",
+      "category": "Technology",
+      "direction": "falling",
+      "confidence": 93,
+      "summary": "The market indices for VS code demonstrate downward correction. Transition costs, technical complex state requirements, and substitution technologies are causing gradual migration away from this topic.",
+      "insights": [
+        "Alternative standards are capturing market share, proving 3x higher throughput efficiencies.",
+        "Specialists and developers report major cognitive overheads and maintenance difficulties.",
+        "Inquiries and public forum discussions on this specific architecture have cooled down by 45% since early peak periods.",
+        "Legacy systems still maintain defensive usage, but strategic multi-year funding is heavily favoring alternative setups."
+      ],
+      "keywords": [
+        {
+          "word": "VS code migration",
+          "trend": "rising",
+          "weight": 88
+        },
+        {
+          "word": "Legacy VS code",
+          "trend": "falling",
+          "weight": 25
+        },
+        {
+          "word": "Cloud transformation",
+          "trend": "rising",
+          "weight": 91
+        },
+        {
+          "word": "Maintenance costs",
+          "trend": "stable",
+          "weight": 75
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 25
+        },
+        {
+          "month": "Feb",
+          "value": 22
+        },
+        {
+          "month": "Mar",
+          "value": 19
+        },
+        {
+          "month": "Apr",
+          "value": 16
+        },
+        {
+          "month": "May",
+          "value": 13
+        },
+        {
+          "month": "Jun",
+          "value": 10
+        },
+        {
+          "month": "Jul",
+          "value": 7
+        },
+        {
+          "month": "Aug",
+          "value": 5
+        },
+        {
+          "month": "Sep",
+          "value": 5
+        },
+        {
+          "month": "Oct",
+          "value": 5
+        },
+        {
+          "month": "Nov",
+          "value": 5
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 86
+        },
+        {
+          "year": "2023",
+          "interest": 71
+        },
+        {
+          "year": "2024",
+          "interest": 56
+        },
+        {
+          "year": "2025",
+          "interest": 41
+        },
+        {
+          "year": "2026",
+          "interest": 28
+        }
+      ],
+      "modelUsed": "Logistic Regression",
+      "createdAt": "2026-05-26T13:24:14.471Z"
+    },
+    {
+      "id": "pred_2798d956",
+      "userId": "user_c9ae6bb0",
+      "query": "artificial intelligence",
+      "category": "Technology",
+      "direction": "rising",
+      "confidence": 70,
+      "summary": "The demand index for artificial intelligence is accelerating. Robust investment, strong open-source developer engagement, and corporate alignment are establishing major industry tailwinds.",
+      "insights": [
+        "Venture inflows for artificial intelligence have scaled up by roughly 120% year-on-year over consecutive cycles.",
+        "Integration metrics highlight an optimization growth trajectory that is outperforming traditional tools.",
+        "Consumer interest indicators peak in critical technical urban hubs, proving early mainstream adoption patterns.",
+        "Analytical constraints exist regarding cross-platform tooling support, but hardware improvements are mitigating this."
+      ],
+      "keywords": [
+        {
+          "word": "artificial intelligence integration",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "Autonomous setups",
+          "trend": "rising",
+          "weight": 81
+        },
+        {
+          "word": "Legacy adoption",
+          "trend": "falling",
+          "weight": 30
+        },
+        {
+          "word": "Cost compliance",
+          "trend": "stable",
+          "weight": 65
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 82
+        },
+        {
+          "month": "Feb",
+          "value": 84
+        },
+        {
+          "month": "Mar",
+          "value": 86
+        },
+        {
+          "month": "Apr",
+          "value": 88
+        },
+        {
+          "month": "May",
+          "value": 90
+        },
+        {
+          "month": "Jun",
+          "value": 92
+        },
+        {
+          "month": "Jul",
+          "value": 94
+        },
+        {
+          "month": "Aug",
+          "value": 96
+        },
+        {
+          "month": "Sep",
+          "value": 98
+        },
+        {
+          "month": "Oct",
+          "value": 100
+        },
+        {
+          "month": "Nov",
+          "value": 102
+        },
+        {
+          "month": "Dec",
+          "value": 104
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 22
+        },
+        {
+          "year": "2023",
+          "interest": 37
+        },
+        {
+          "year": "2024",
+          "interest": 52
+        },
+        {
+          "year": "2025",
+          "interest": 67
+        },
+        {
+          "year": "2026",
+          "interest": 80
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-05-29T12:05:04.579Z"
+    },
+    {
+      "id": "pred_ff3b0d7e",
+      "userId": "user_c9ae6bb0",
+      "query": "Cyber secrity",
+      "category": "Technology",
+      "direction": "falling",
+      "confidence": 93,
+      "summary": "The market indices for Cyber secrity demonstrate downward correction. Transition costs, technical complex state requirements, and substitution technologies are causing gradual migration away from this topic.",
+      "insights": [
+        "Alternative standards are capturing market share, proving 3x higher throughput efficiencies.",
+        "Specialists and developers report major cognitive overheads and maintenance difficulties.",
+        "Inquiries and public forum discussions on this specific architecture have cooled down by 45% since early peak periods.",
+        "Legacy systems still maintain defensive usage, but strategic multi-year funding is heavily favoring alternative setups."
+      ],
+      "keywords": [
+        {
+          "word": "Cyber secrity migration",
+          "trend": "rising",
+          "weight": 88
+        },
+        {
+          "word": "Legacy Cyber secrity",
+          "trend": "falling",
+          "weight": 25
+        },
+        {
+          "word": "Cloud transformation",
+          "trend": "rising",
+          "weight": 91
+        },
+        {
+          "word": "Maintenance costs",
+          "trend": "stable",
+          "weight": 75
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 16
+        },
+        {
+          "month": "Feb",
+          "value": 13
+        },
+        {
+          "month": "Mar",
+          "value": 10
+        },
+        {
+          "month": "Apr",
+          "value": 7
+        },
+        {
+          "month": "May",
+          "value": 5
+        },
+        {
+          "month": "Jun",
+          "value": 5
+        },
+        {
+          "month": "Jul",
+          "value": 5
+        },
+        {
+          "month": "Aug",
+          "value": 5
+        },
+        {
+          "month": "Sep",
+          "value": 5
+        },
+        {
+          "month": "Oct",
+          "value": 5
+        },
+        {
+          "month": "Nov",
+          "value": 5
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 77
+        },
+        {
+          "year": "2023",
+          "interest": 62
+        },
+        {
+          "year": "2024",
+          "interest": 47
+        },
+        {
+          "year": "2025",
+          "interest": 32
+        },
+        {
+          "year": "2026",
+          "interest": 19
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-05-29T12:08:00.162Z"
+    },
+    {
+      "id": "pred_cd2968a6",
+      "userId": "user_c9ae6bb0",
+      "query": "rawalpindi weather",
+      "category": "Climate",
+      "direction": "stable",
+      "confidence": 89,
+      "summary": "The relative metrics of rawalpindi weather reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "rawalpindi weather standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 57
+        },
+        {
+          "month": "Feb",
+          "value": 61
+        },
+        {
+          "month": "Mar",
+          "value": 62
+        },
+        {
+          "month": "Apr",
+          "value": 58
+        },
+        {
+          "month": "May",
+          "value": 53
+        },
+        {
+          "month": "Jun",
+          "value": 52
+        },
+        {
+          "month": "Jul",
+          "value": 56
+        },
+        {
+          "month": "Aug",
+          "value": 60
+        },
+        {
+          "month": "Sep",
+          "value": 62
+        },
+        {
+          "month": "Oct",
+          "value": 59
+        },
+        {
+          "month": "Nov",
+          "value": 54
+        },
+        {
+          "month": "Dec",
+          "value": 52
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 59
+        },
+        {
+          "year": "2023",
+          "interest": 54
+        },
+        {
+          "year": "2024",
+          "interest": 62
+        },
+        {
+          "year": "2025",
+          "interest": 55
+        },
+        {
+          "year": "2026",
+          "interest": 57
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-05-29T12:10:51.689Z"
+    },
+    {
+      "id": "pred_70ed24c1",
+      "userId": "user_7b893f3d",
+      "query": "Trend  for the Artificial  Intelligence",
+      "category": "Technology",
+      "direction": "rising",
+      "confidence": 81,
+      "summary": "The demand index for Trend  for the Artificial  Intelligence is accelerating. Robust investment, strong open-source developer engagement, and corporate alignment are establishing major industry tailwinds.",
+      "insights": [
+        "Venture inflows for Trend  for the Artificial  Intelligence have scaled up by roughly 120% year-on-year over consecutive cycles.",
+        "Integration metrics highlight an optimization growth trajectory that is outperforming traditional tools.",
+        "Consumer interest indicators peak in critical technical urban hubs, proving early mainstream adoption patterns.",
+        "Analytical constraints exist regarding cross-platform tooling support, but hardware improvements are mitigating this."
+      ],
+      "keywords": [
+        {
+          "word": "Trend  for the Artificial  Intelligence integration",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "Autonomous setups",
+          "trend": "rising",
+          "weight": 81
+        },
+        {
+          "word": "Legacy adoption",
+          "trend": "falling",
+          "weight": 30
+        },
+        {
+          "word": "Cost compliance",
+          "trend": "stable",
+          "weight": 65
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 91
+        },
+        {
+          "month": "Feb",
+          "value": 93
+        },
+        {
+          "month": "Mar",
+          "value": 95
+        },
+        {
+          "month": "Apr",
+          "value": 97
+        },
+        {
+          "month": "May",
+          "value": 99
+        },
+        {
+          "month": "Jun",
+          "value": 101
+        },
+        {
+          "month": "Jul",
+          "value": 103
+        },
+        {
+          "month": "Aug",
+          "value": 105
+        },
+        {
+          "month": "Sep",
+          "value": 107
+        },
+        {
+          "month": "Oct",
+          "value": 109
+        },
+        {
+          "month": "Nov",
+          "value": 111
+        },
+        {
+          "month": "Dec",
+          "value": 113
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 31
+        },
+        {
+          "year": "2023",
+          "interest": 46
+        },
+        {
+          "year": "2024",
+          "interest": 61
+        },
+        {
+          "year": "2025",
+          "interest": 76
+        },
+        {
+          "year": "2026",
+          "interest": 89
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-01T16:02:11.893Z"
+    },
+    {
+      "id": "pred_bb912052",
+      "userId": "user_47947808",
+      "query": "Artificial Intelligence trend analysis",
+      "category": "Technology",
+      "direction": "stable",
+      "confidence": 68,
+      "summary": "The relative metrics of Artificial Intelligence trend analysis reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "Artificial Intelligence trend analysis standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 66
+        },
+        {
+          "month": "Feb",
+          "value": 70
+        },
+        {
+          "month": "Mar",
+          "value": 71
+        },
+        {
+          "month": "Apr",
+          "value": 67
+        },
+        {
+          "month": "May",
+          "value": 62
+        },
+        {
+          "month": "Jun",
+          "value": 61
+        },
+        {
+          "month": "Jul",
+          "value": 65
+        },
+        {
+          "month": "Aug",
+          "value": 69
+        },
+        {
+          "month": "Sep",
+          "value": 71
+        },
+        {
+          "month": "Oct",
+          "value": 68
+        },
+        {
+          "month": "Nov",
+          "value": 63
+        },
+        {
+          "month": "Dec",
+          "value": 61
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 68
+        },
+        {
+          "year": "2023",
+          "interest": 63
+        },
+        {
+          "year": "2024",
+          "interest": 71
+        },
+        {
+          "year": "2025",
+          "interest": 64
+        },
+        {
+          "year": "2026",
+          "interest": 66
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-01T17:04:07.012Z"
+    },
+    {
+      "id": "pred_d2d5c70d",
+      "userId": "user_47947808",
+      "query": "Food Business trend analysis",
+      "category": "Business",
+      "direction": "rising",
+      "confidence": 77,
+      "summary": "The demand index for Food Business trend analysis is accelerating. Robust investment, strong open-source developer engagement, and corporate alignment are establishing major industry tailwinds.",
+      "insights": [
+        "Venture inflows for Food Business trend analysis have scaled up by roughly 120% year-on-year over consecutive cycles.",
+        "Integration metrics highlight an optimization growth trajectory that is outperforming traditional tools.",
+        "Consumer interest indicators peak in critical technical urban hubs, proving early mainstream adoption patterns.",
+        "Analytical constraints exist regarding cross-platform tooling support, but hardware improvements are mitigating this."
+      ],
+      "keywords": [
+        {
+          "word": "Food Business trend analysis integration",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "Autonomous setups",
+          "trend": "rising",
+          "weight": 81
+        },
+        {
+          "word": "Legacy adoption",
+          "trend": "falling",
+          "weight": 30
+        },
+        {
+          "word": "Cost compliance",
+          "trend": "stable",
+          "weight": 65
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 82
+        },
+        {
+          "month": "Feb",
+          "value": 84
+        },
+        {
+          "month": "Mar",
+          "value": 86
+        },
+        {
+          "month": "Apr",
+          "value": 88
+        },
+        {
+          "month": "May",
+          "value": 90
+        },
+        {
+          "month": "Jun",
+          "value": 92
+        },
+        {
+          "month": "Jul",
+          "value": 94
+        },
+        {
+          "month": "Aug",
+          "value": 96
+        },
+        {
+          "month": "Sep",
+          "value": 98
+        },
+        {
+          "month": "Oct",
+          "value": 100
+        },
+        {
+          "month": "Nov",
+          "value": 102
+        },
+        {
+          "month": "Dec",
+          "value": 104
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 22
+        },
+        {
+          "year": "2023",
+          "interest": 37
+        },
+        {
+          "year": "2024",
+          "interest": 52
+        },
+        {
+          "year": "2025",
+          "interest": 67
+        },
+        {
+          "year": "2026",
+          "interest": 80
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-06-01T17:05:02.908Z"
+    },
+    {
+      "id": "pred_f698e2b8",
+      "userId": "user_47947808",
+      "query": "Software Engineering",
+      "category": "Technology",
+      "direction": "stable",
+      "confidence": 73,
+      "summary": "The relative metrics of Software Engineering reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "Software Engineering standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 57
+        },
+        {
+          "month": "Feb",
+          "value": 61
+        },
+        {
+          "month": "Mar",
+          "value": 62
+        },
+        {
+          "month": "Apr",
+          "value": 58
+        },
+        {
+          "month": "May",
+          "value": 53
+        },
+        {
+          "month": "Jun",
+          "value": 52
+        },
+        {
+          "month": "Jul",
+          "value": 56
+        },
+        {
+          "month": "Aug",
+          "value": 60
+        },
+        {
+          "month": "Sep",
+          "value": 62
+        },
+        {
+          "month": "Oct",
+          "value": 59
+        },
+        {
+          "month": "Nov",
+          "value": 54
+        },
+        {
+          "month": "Dec",
+          "value": 52
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 59
+        },
+        {
+          "year": "2023",
+          "interest": 54
+        },
+        {
+          "year": "2024",
+          "interest": 62
+        },
+        {
+          "year": "2025",
+          "interest": 55
+        },
+        {
+          "year": "2026",
+          "interest": 57
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-06-01T17:05:51.597Z"
+    },
+    {
+      "id": "pred_7bd0547d",
+      "userId": "user_7b893f3d",
+      "query": "Scope of the software engineering",
+      "category": "Technology",
+      "direction": "stable",
+      "confidence": 78,
+      "summary": "The relative metrics of Scope of the software engineering reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "Scope of the software engineering standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 42
+        },
+        {
+          "month": "Feb",
+          "value": 46
+        },
+        {
+          "month": "Mar",
+          "value": 47
+        },
+        {
+          "month": "Apr",
+          "value": 43
+        },
+        {
+          "month": "May",
+          "value": 38
+        },
+        {
+          "month": "Jun",
+          "value": 37
+        },
+        {
+          "month": "Jul",
+          "value": 41
+        },
+        {
+          "month": "Aug",
+          "value": 45
+        },
+        {
+          "month": "Sep",
+          "value": 47
+        },
+        {
+          "month": "Oct",
+          "value": 44
+        },
+        {
+          "month": "Nov",
+          "value": 39
+        },
+        {
+          "month": "Dec",
+          "value": 37
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 44
+        },
+        {
+          "year": "2023",
+          "interest": 39
+        },
+        {
+          "year": "2024",
+          "interest": 47
+        },
+        {
+          "year": "2025",
+          "interest": 40
+        },
+        {
+          "year": "2026",
+          "interest": 42
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-01T17:13:44.246Z"
+    },
+    {
+      "id": "pred_3ca6cbb7",
+      "userId": "user_7b893f3d",
+      "query": "Muslim culture in America",
+      "category": "Society",
+      "direction": "stable",
+      "confidence": 87,
+      "summary": "The relative metrics of Muslim culture in America reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "Muslim culture in America standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 45
+        },
+        {
+          "month": "Feb",
+          "value": 49
+        },
+        {
+          "month": "Mar",
+          "value": 50
+        },
+        {
+          "month": "Apr",
+          "value": 46
+        },
+        {
+          "month": "May",
+          "value": 41
+        },
+        {
+          "month": "Jun",
+          "value": 40
+        },
+        {
+          "month": "Jul",
+          "value": 44
+        },
+        {
+          "month": "Aug",
+          "value": 48
+        },
+        {
+          "month": "Sep",
+          "value": 50
+        },
+        {
+          "month": "Oct",
+          "value": 47
+        },
+        {
+          "month": "Nov",
+          "value": 42
+        },
+        {
+          "month": "Dec",
+          "value": 40
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 47
+        },
+        {
+          "year": "2023",
+          "interest": 42
+        },
+        {
+          "year": "2024",
+          "interest": 50
+        },
+        {
+          "year": "2025",
+          "interest": 43
+        },
+        {
+          "year": "2026",
+          "interest": 45
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-01T17:14:39.614Z"
+    },
+    {
+      "id": "pred_16c5578f",
+      "userId": "user_7b893f3d",
+      "query": "food",
+      "category": "Business",
+      "direction": "stable",
+      "confidence": 86,
+      "summary": "The relative metrics of food reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "food standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 57
+        },
+        {
+          "month": "Feb",
+          "value": 61
+        },
+        {
+          "month": "Mar",
+          "value": 62
+        },
+        {
+          "month": "Apr",
+          "value": 58
+        },
+        {
+          "month": "May",
+          "value": 53
+        },
+        {
+          "month": "Jun",
+          "value": 52
+        },
+        {
+          "month": "Jul",
+          "value": 56
+        },
+        {
+          "month": "Aug",
+          "value": 60
+        },
+        {
+          "month": "Sep",
+          "value": 62
+        },
+        {
+          "month": "Oct",
+          "value": 59
+        },
+        {
+          "month": "Nov",
+          "value": 54
+        },
+        {
+          "month": "Dec",
+          "value": 52
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 59
+        },
+        {
+          "year": "2023",
+          "interest": 54
+        },
+        {
+          "year": "2024",
+          "interest": 62
+        },
+        {
+          "year": "2025",
+          "interest": 55
+        },
+        {
+          "year": "2026",
+          "interest": 57
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-06-02T06:09:02.661Z"
+    },
+    {
+      "id": "pred_ebc6fe64",
+      "userId": "user_7b893f3d",
+      "query": "rawalpindi weather",
+      "category": "Climate",
+      "direction": "stable",
+      "confidence": 89,
+      "summary": "The relative metrics of rawalpindi weather reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "rawalpindi weather standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 57
+        },
+        {
+          "month": "Feb",
+          "value": 61
+        },
+        {
+          "month": "Mar",
+          "value": 62
+        },
+        {
+          "month": "Apr",
+          "value": 58
+        },
+        {
+          "month": "May",
+          "value": 53
+        },
+        {
+          "month": "Jun",
+          "value": 52
+        },
+        {
+          "month": "Jul",
+          "value": 56
+        },
+        {
+          "month": "Aug",
+          "value": 60
+        },
+        {
+          "month": "Sep",
+          "value": 62
+        },
+        {
+          "month": "Oct",
+          "value": 59
+        },
+        {
+          "month": "Nov",
+          "value": 54
+        },
+        {
+          "month": "Dec",
+          "value": 52
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 59
+        },
+        {
+          "year": "2023",
+          "interest": 54
+        },
+        {
+          "year": "2024",
+          "interest": 62
+        },
+        {
+          "year": "2025",
+          "interest": 55
+        },
+        {
+          "year": "2026",
+          "interest": 57
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-02T06:10:17.877Z"
+    },
+    {
+      "id": "pred_bf79f547",
+      "userId": "user_7b893f3d",
+      "query": "biryan palao and burge trends",
+      "category": "Business",
+      "direction": "stable",
+      "confidence": 88,
+      "summary": "The relative metrics of biryan palao and burge trends reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "biryan palao and burge trends standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 51
+        },
+        {
+          "month": "Feb",
+          "value": 55
+        },
+        {
+          "month": "Mar",
+          "value": 56
+        },
+        {
+          "month": "Apr",
+          "value": 52
+        },
+        {
+          "month": "May",
+          "value": 47
+        },
+        {
+          "month": "Jun",
+          "value": 46
+        },
+        {
+          "month": "Jul",
+          "value": 50
+        },
+        {
+          "month": "Aug",
+          "value": 54
+        },
+        {
+          "month": "Sep",
+          "value": 56
+        },
+        {
+          "month": "Oct",
+          "value": 53
+        },
+        {
+          "month": "Nov",
+          "value": 48
+        },
+        {
+          "month": "Dec",
+          "value": 46
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 53
+        },
+        {
+          "year": "2023",
+          "interest": 48
+        },
+        {
+          "year": "2024",
+          "interest": 56
+        },
+        {
+          "year": "2025",
+          "interest": 49
+        },
+        {
+          "year": "2026",
+          "interest": 51
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-02T06:12:30.932Z"
+    },
+    {
+      "id": "pred_95347526",
+      "userId": "user_19312858",
+      "query": "laptop market in 2023",
+      "category": "Technology",
+      "direction": "stable",
+      "confidence": 67,
+      "summary": "The relative metrics of laptop market in 2023 reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "laptop market in 2023 standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 60
+        },
+        {
+          "month": "Feb",
+          "value": 64
+        },
+        {
+          "month": "Mar",
+          "value": 65
+        },
+        {
+          "month": "Apr",
+          "value": 61
+        },
+        {
+          "month": "May",
+          "value": 56
+        },
+        {
+          "month": "Jun",
+          "value": 55
+        },
+        {
+          "month": "Jul",
+          "value": 59
+        },
+        {
+          "month": "Aug",
+          "value": 63
+        },
+        {
+          "month": "Sep",
+          "value": 65
+        },
+        {
+          "month": "Oct",
+          "value": 62
+        },
+        {
+          "month": "Nov",
+          "value": 57
+        },
+        {
+          "month": "Dec",
+          "value": 55
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 62
+        },
+        {
+          "year": "2023",
+          "interest": 57
+        },
+        {
+          "year": "2024",
+          "interest": 65
+        },
+        {
+          "year": "2025",
+          "interest": 58
+        },
+        {
+          "year": "2026",
+          "interest": 60
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-02T06:56:02.794Z"
+    },
+    {
+      "id": "pred_96e0a869",
+      "userId": "user_19312858",
+      "query": "ecg",
+      "category": "Healthcare",
+      "direction": "falling",
+      "confidence": 78,
+      "summary": "The market indices for ecg demonstrate downward correction. Transition costs, technical complex state requirements, and substitution technologies are causing gradual migration away from this topic.",
+      "insights": [
+        "Alternative standards are capturing market share, proving 3x higher throughput efficiencies.",
+        "Specialists and developers report major cognitive overheads and maintenance difficulties.",
+        "Inquiries and public forum discussions on this specific architecture have cooled down by 45% since early peak periods.",
+        "Legacy systems still maintain defensive usage, but strategic multi-year funding is heavily favoring alternative setups."
+      ],
+      "keywords": [
+        {
+          "word": "ecg migration",
+          "trend": "rising",
+          "weight": 88
+        },
+        {
+          "word": "Legacy ecg",
+          "trend": "falling",
+          "weight": 25
+        },
+        {
+          "word": "Cloud transformation",
+          "trend": "rising",
+          "weight": 91
+        },
+        {
+          "word": "Maintenance costs",
+          "trend": "stable",
+          "weight": 75
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 34
+        },
+        {
+          "month": "Feb",
+          "value": 31
+        },
+        {
+          "month": "Mar",
+          "value": 28
+        },
+        {
+          "month": "Apr",
+          "value": 25
+        },
+        {
+          "month": "May",
+          "value": 22
+        },
+        {
+          "month": "Jun",
+          "value": 19
+        },
+        {
+          "month": "Jul",
+          "value": 16
+        },
+        {
+          "month": "Aug",
+          "value": 13
+        },
+        {
+          "month": "Sep",
+          "value": 10
+        },
+        {
+          "month": "Oct",
+          "value": 7
+        },
+        {
+          "month": "Nov",
+          "value": 5
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 95
+        },
+        {
+          "year": "2023",
+          "interest": 80
+        },
+        {
+          "year": "2024",
+          "interest": 65
+        },
+        {
+          "year": "2025",
+          "interest": 50
+        },
+        {
+          "year": "2026",
+          "interest": 37
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-02T06:57:27.625Z"
+    },
+    {
+      "id": "pred_f8154740",
+      "userId": "user_19312858",
+      "query": "Aritificial agents",
+      "category": "Technology",
+      "direction": "falling",
+      "confidence": 91,
+      "summary": "The market indices for Aritificial agents demonstrate downward correction. Transition costs, technical complex state requirements, and substitution technologies are causing gradual migration away from this topic.",
+      "insights": [
+        "Alternative standards are capturing market share, proving 3x higher throughput efficiencies.",
+        "Specialists and developers report major cognitive overheads and maintenance difficulties.",
+        "Inquiries and public forum discussions on this specific architecture have cooled down by 45% since early peak periods.",
+        "Legacy systems still maintain defensive usage, but strategic multi-year funding is heavily favoring alternative setups."
+      ],
+      "keywords": [
+        {
+          "word": "Aritificial agents migration",
+          "trend": "rising",
+          "weight": 88
+        },
+        {
+          "word": "Legacy Aritificial agents",
+          "trend": "falling",
+          "weight": 25
+        },
+        {
+          "word": "Cloud transformation",
+          "trend": "rising",
+          "weight": 91
+        },
+        {
+          "word": "Maintenance costs",
+          "trend": "stable",
+          "weight": 75
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 37
+        },
+        {
+          "month": "Feb",
+          "value": 34
+        },
+        {
+          "month": "Mar",
+          "value": 31
+        },
+        {
+          "month": "Apr",
+          "value": 28
+        },
+        {
+          "month": "May",
+          "value": 25
+        },
+        {
+          "month": "Jun",
+          "value": 22
+        },
+        {
+          "month": "Jul",
+          "value": 19
+        },
+        {
+          "month": "Aug",
+          "value": 16
+        },
+        {
+          "month": "Sep",
+          "value": 13
+        },
+        {
+          "month": "Oct",
+          "value": 10
+        },
+        {
+          "month": "Nov",
+          "value": 7
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 98
+        },
+        {
+          "year": "2023",
+          "interest": 83
+        },
+        {
+          "year": "2024",
+          "interest": 68
+        },
+        {
+          "year": "2025",
+          "interest": 53
+        },
+        {
+          "year": "2026",
+          "interest": 40
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-02T06:58:51.301Z"
+    },
+    {
+      "id": "pred_01f7e8a9",
+      "userId": "user_19312858",
+      "query": "divorce rate in islamabad",
+      "category": "Society",
+      "direction": "stable",
+      "confidence": 72,
+      "summary": "The relative metrics of divorce rate in islamabad reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "divorce rate in islamabad standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 66
+        },
+        {
+          "month": "Feb",
+          "value": 70
+        },
+        {
+          "month": "Mar",
+          "value": 71
+        },
+        {
+          "month": "Apr",
+          "value": 67
+        },
+        {
+          "month": "May",
+          "value": 62
+        },
+        {
+          "month": "Jun",
+          "value": 61
+        },
+        {
+          "month": "Jul",
+          "value": 65
+        },
+        {
+          "month": "Aug",
+          "value": 69
+        },
+        {
+          "month": "Sep",
+          "value": 71
+        },
+        {
+          "month": "Oct",
+          "value": 68
+        },
+        {
+          "month": "Nov",
+          "value": 63
+        },
+        {
+          "month": "Dec",
+          "value": 61
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 68
+        },
+        {
+          "year": "2023",
+          "interest": 63
+        },
+        {
+          "year": "2024",
+          "interest": 71
+        },
+        {
+          "year": "2025",
+          "interest": 64
+        },
+        {
+          "year": "2026",
+          "interest": 66
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-03T08:49:47.653Z"
+    },
+    {
+      "id": "pred_ffba22d7",
+      "userId": "user_677d9c04",
+      "query": "Artificial intelligence  boom",
+      "category": "Technology",
+      "direction": "rising",
+      "confidence": 84,
+      "summary": "The demand index for Artificial intelligence  boom is accelerating. Robust investment, strong open-source developer engagement, and corporate alignment are establishing major industry tailwinds.",
+      "insights": [
+        "Venture inflows for Artificial intelligence  boom have scaled up by roughly 120% year-on-year over consecutive cycles.",
+        "Integration metrics highlight an optimization growth trajectory that is outperforming traditional tools.",
+        "Consumer interest indicators peak in critical technical urban hubs, proving early mainstream adoption patterns.",
+        "Analytical constraints exist regarding cross-platform tooling support, but hardware improvements are mitigating this."
+      ],
+      "keywords": [
+        {
+          "word": "Artificial intelligence  boom integration",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "Autonomous setups",
+          "trend": "rising",
+          "weight": 81
+        },
+        {
+          "word": "Legacy adoption",
+          "trend": "falling",
+          "weight": 30
+        },
+        {
+          "word": "Cost compliance",
+          "trend": "stable",
+          "weight": 65
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 73
+        },
+        {
+          "month": "Feb",
+          "value": 75
+        },
+        {
+          "month": "Mar",
+          "value": 77
+        },
+        {
+          "month": "Apr",
+          "value": 79
+        },
+        {
+          "month": "May",
+          "value": 81
+        },
+        {
+          "month": "Jun",
+          "value": 83
+        },
+        {
+          "month": "Jul",
+          "value": 85
+        },
+        {
+          "month": "Aug",
+          "value": 87
+        },
+        {
+          "month": "Sep",
+          "value": 89
+        },
+        {
+          "month": "Oct",
+          "value": 91
+        },
+        {
+          "month": "Nov",
+          "value": 93
+        },
+        {
+          "month": "Dec",
+          "value": 95
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 13
+        },
+        {
+          "year": "2023",
+          "interest": 28
+        },
+        {
+          "year": "2024",
+          "interest": 43
+        },
+        {
+          "year": "2025",
+          "interest": 58
+        },
+        {
+          "year": "2026",
+          "interest": 71
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-05T17:33:00.588Z"
+    },
+    {
+      "id": "pred_b7aa35f9",
+      "userId": "user_677d9c04",
+      "query": "food business",
+      "category": "Business",
+      "direction": "rising",
+      "confidence": 82,
+      "summary": "The demand index for food business is accelerating. Robust investment, strong open-source developer engagement, and corporate alignment are establishing major industry tailwinds.",
+      "insights": [
+        "Venture inflows for food business have scaled up by roughly 120% year-on-year over consecutive cycles.",
+        "Integration metrics highlight an optimization growth trajectory that is outperforming traditional tools.",
+        "Consumer interest indicators peak in critical technical urban hubs, proving early mainstream adoption patterns.",
+        "Analytical constraints exist regarding cross-platform tooling support, but hardware improvements are mitigating this."
+      ],
+      "keywords": [
+        {
+          "word": "food business integration",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "Autonomous setups",
+          "trend": "rising",
+          "weight": 81
+        },
+        {
+          "word": "Legacy adoption",
+          "trend": "falling",
+          "weight": 30
+        },
+        {
+          "word": "Cost compliance",
+          "trend": "stable",
+          "weight": 65
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 97
+        },
+        {
+          "month": "Feb",
+          "value": 99
+        },
+        {
+          "month": "Mar",
+          "value": 101
+        },
+        {
+          "month": "Apr",
+          "value": 103
+        },
+        {
+          "month": "May",
+          "value": 105
+        },
+        {
+          "month": "Jun",
+          "value": 107
+        },
+        {
+          "month": "Jul",
+          "value": 109
+        },
+        {
+          "month": "Aug",
+          "value": 111
+        },
+        {
+          "month": "Sep",
+          "value": 113
+        },
+        {
+          "month": "Oct",
+          "value": 115
+        },
+        {
+          "month": "Nov",
+          "value": 115
+        },
+        {
+          "month": "Dec",
+          "value": 115
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 37
+        },
+        {
+          "year": "2023",
+          "interest": 52
+        },
+        {
+          "year": "2024",
+          "interest": 67
+        },
+        {
+          "year": "2025",
+          "interest": 82
+        },
+        {
+          "year": "2026",
+          "interest": 95
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-05T17:35:20.529Z"
+    },
+    {
+      "id": "pred_cebca545",
+      "userId": "user_677d9c04",
+      "query": "clothing busines",
+      "category": "Business",
+      "direction": "stable",
+      "confidence": 88,
+      "summary": "The relative metrics of clothing busines reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "clothing busines standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 57
+        },
+        {
+          "month": "Feb",
+          "value": 61
+        },
+        {
+          "month": "Mar",
+          "value": 62
+        },
+        {
+          "month": "Apr",
+          "value": 58
+        },
+        {
+          "month": "May",
+          "value": 53
+        },
+        {
+          "month": "Jun",
+          "value": 52
+        },
+        {
+          "month": "Jul",
+          "value": 56
+        },
+        {
+          "month": "Aug",
+          "value": 60
+        },
+        {
+          "month": "Sep",
+          "value": 62
+        },
+        {
+          "month": "Oct",
+          "value": 59
+        },
+        {
+          "month": "Nov",
+          "value": 54
+        },
+        {
+          "month": "Dec",
+          "value": 52
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 59
+        },
+        {
+          "year": "2023",
+          "interest": 54
+        },
+        {
+          "year": "2024",
+          "interest": 62
+        },
+        {
+          "year": "2025",
+          "interest": 55
+        },
+        {
+          "year": "2026",
+          "interest": 57
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-05T17:35:20.530Z"
+    },
+    {
+      "id": "pred_abdf2f7b",
+      "userId": "user_7b893f3d",
+      "query": "ai",
+      "category": "Climate",
+      "direction": "stable",
+      "confidence": 79,
+      "summary": "The relative metrics of ai reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "ai standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 48
+        },
+        {
+          "month": "Feb",
+          "value": 52
+        },
+        {
+          "month": "Mar",
+          "value": 53
+        },
+        {
+          "month": "Apr",
+          "value": 49
+        },
+        {
+          "month": "May",
+          "value": 44
+        },
+        {
+          "month": "Jun",
+          "value": 43
+        },
+        {
+          "month": "Jul",
+          "value": 47
+        },
+        {
+          "month": "Aug",
+          "value": 51
+        },
+        {
+          "month": "Sep",
+          "value": 53
+        },
+        {
+          "month": "Oct",
+          "value": 50
+        },
+        {
+          "month": "Nov",
+          "value": 45
+        },
+        {
+          "month": "Dec",
+          "value": 43
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 50
+        },
+        {
+          "year": "2023",
+          "interest": 45
+        },
+        {
+          "year": "2024",
+          "interest": 53
+        },
+        {
+          "year": "2025",
+          "interest": 46
+        },
+        {
+          "year": "2026",
+          "interest": 48
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-06-05T18:18:27.295Z"
+    },
+    {
+      "id": "pred_fb8fd2c6",
+      "userId": "user_7b893f3d",
+      "query": "world",
+      "category": "Healthcare",
+      "direction": "stable",
+      "confidence": 82,
+      "summary": "The relative metrics of world reflect a highly mature, stable ecosystem. While hyper-growth phases are concluding, the technology enjoys resilient, foundational integration across enterprise layers.",
+      "insights": [
+        "Market saturation is balanced by steady recurring contractual agreements and enterprise support paradigms.",
+        "Hiring requests fluctuate within normalized parameters (+/- 4%), indicating reliable long-term developer pipelines.",
+        "Technical iteration speed is slowing in favor of rigorous standardization, security, and long-term compliance stability.",
+        "Global interest patterns match highly seasonal corporate budgetary schedules but maintain resilient baseline indices."
+      ],
+      "keywords": [
+        {
+          "word": "world standards",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise scaling",
+          "trend": "stable",
+          "weight": 83
+        },
+        {
+          "word": "System dependencies",
+          "trend": "stable",
+          "weight": 78
+        },
+        {
+          "word": "Innovative breakouts",
+          "trend": "falling",
+          "weight": 35
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 69
+        },
+        {
+          "month": "Feb",
+          "value": 73
+        },
+        {
+          "month": "Mar",
+          "value": 74
+        },
+        {
+          "month": "Apr",
+          "value": 70
+        },
+        {
+          "month": "May",
+          "value": 65
+        },
+        {
+          "month": "Jun",
+          "value": 64
+        },
+        {
+          "month": "Jul",
+          "value": 68
+        },
+        {
+          "month": "Aug",
+          "value": 72
+        },
+        {
+          "month": "Sep",
+          "value": 74
+        },
+        {
+          "month": "Oct",
+          "value": 71
+        },
+        {
+          "month": "Nov",
+          "value": 66
+        },
+        {
+          "month": "Dec",
+          "value": 64
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 71
+        },
+        {
+          "year": "2023",
+          "interest": 66
+        },
+        {
+          "year": "2024",
+          "interest": 74
+        },
+        {
+          "year": "2025",
+          "interest": 67
+        },
+        {
+          "year": "2026",
+          "interest": 69
+        }
+      ],
+      "modelUsed": "SVM",
+      "createdAt": "2026-06-05T18:19:00.804Z"
+    },
+    {
+      "id": "pred_2fafb4e0",
+      "userId": "user_19312858",
+      "query": "choopa",
+      "category": "Society",
+      "direction": "falling",
+      "confidence": 75,
+      "summary": "The market indices for choopa demonstrate downward correction. Transition costs, technical complex state requirements, and substitution technologies are causing gradual migration away from this topic.",
+      "insights": [
+        "Alternative standards are capturing market share, proving 3x higher throughput efficiencies.",
+        "Specialists and developers report major cognitive overheads and maintenance difficulties.",
+        "Inquiries and public forum discussions on this specific architecture have cooled down by 45% since early peak periods.",
+        "Legacy systems still maintain defensive usage, but strategic multi-year funding is heavily favoring alternative setups."
+      ],
+      "keywords": [
+        {
+          "word": "choopa migration",
+          "trend": "rising",
+          "weight": 88
+        },
+        {
+          "word": "Legacy choopa",
+          "trend": "falling",
+          "weight": 25
+        },
+        {
+          "word": "Cloud transformation",
+          "trend": "rising",
+          "weight": 91
+        },
+        {
+          "word": "Maintenance costs",
+          "trend": "stable",
+          "weight": 75
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 22
+        },
+        {
+          "month": "Feb",
+          "value": 19
+        },
+        {
+          "month": "Mar",
+          "value": 16
+        },
+        {
+          "month": "Apr",
+          "value": 13
+        },
+        {
+          "month": "May",
+          "value": 10
+        },
+        {
+          "month": "Jun",
+          "value": 7
+        },
+        {
+          "month": "Jul",
+          "value": 5
+        },
+        {
+          "month": "Aug",
+          "value": 5
+        },
+        {
+          "month": "Sep",
+          "value": 5
+        },
+        {
+          "month": "Oct",
+          "value": 5
+        },
+        {
+          "month": "Nov",
+          "value": 5
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 83
+        },
+        {
+          "year": "2023",
+          "interest": 68
+        },
+        {
+          "year": "2024",
+          "interest": 53
+        },
+        {
+          "year": "2025",
+          "interest": 38
+        },
+        {
+          "year": "2026",
+          "interest": 25
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-06-05T18:40:16.435Z"
+    },
+    {
+      "id": "pred_c6ddb492",
+      "userId": "user_19312858",
+      "query": "ai",
+      "category": "Climate",
+      "direction": "stable",
+      "confidence": 62,
+      "summary": "Decision-tree classification routes ai to a STABLE leaf node with moderate tree depth. The model finds no decisive feature that tips the balance toward growth or contraction, indicating flat market equilibrium.",
+      "insights": [
+        "The tree terminates at a STABLE leaf with 19 splits; no single feature exceeded the 18% information-gain threshold for RISE or FALL.",
+        "Balanced split distribution: 52% of training samples in the subtree point mildly positive, 48% mildly negative — near-perfect balance.",
+        "Validation accuracy on stable-trend benchmarks: 70%, which is respectable given the inherent ambiguity of equilibrium classification.",
+        "Highly interpretable and fast to train, while noting prone to overfitting without depth constraints."
+      ],
+      "keywords": [
+        {
+          "word": "ai ecosystem",
+          "trend": "stable",
+          "weight": 84
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 84
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 56
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 36
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 72
+        },
+        {
+          "month": "Feb",
+          "value": 74
+        },
+        {
+          "month": "Mar",
+          "value": 78
+        },
+        {
+          "month": "Apr",
+          "value": 75
+        },
+        {
+          "month": "May",
+          "value": 72
+        },
+        {
+          "month": "Jun",
+          "value": 73
+        },
+        {
+          "month": "Jul",
+          "value": 66
+        },
+        {
+          "month": "Aug",
+          "value": 60
+        },
+        {
+          "month": "Sep",
+          "value": 65
+        },
+        {
+          "month": "Oct",
+          "value": 59
+        },
+        {
+          "month": "Nov",
+          "value": 68
+        },
+        {
+          "month": "Dec",
+          "value": 67
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 65
+        },
+        {
+          "year": "2023",
+          "interest": 74
+        },
+        {
+          "year": "2024",
+          "interest": 75
+        },
+        {
+          "year": "2025",
+          "interest": 75
+        },
+        {
+          "year": "2026",
+          "interest": 71
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-06-05T20:00:25.604Z"
+    },
+    {
+      "id": "pred_fa712502",
+      "userId": "user_seed_9091",
+      "query": "Artificial Intelligence",
+      "category": "Technology",
+      "direction": "rising",
+      "confidence": 77,
+      "summary": "Random Forest ensemble analysis across 623 feature trees places Artificial Intelligence in a strong upward trajectory. Aggregated majority-vote signals confirm accelerating adoption momentum with high inter-tree consensus.",
+      "insights": [
+        "Ensemble agreement rate is 85% — trees trained on 2020–2026 data consistently vote RISE for Artificial Intelligence, indicating robust cross-period signal.",
+        "Feature importance analysis ranks 'developer search volume' and 'VC deal count' as the top two predictors, together accounting for 44% of variance.",
+        "Out-of-bag (OOB) error rate is 6%, well below the 8% threshold, confirming the model is not overfitting to training noise.",
+        "Robust to outliers and non-linear feature interactions — but note: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "Artificial Intelligence growth",
+          "trend": "rising",
+          "weight": 91
+        },
+        {
+          "word": "Artificial Intelligence investment",
+          "trend": "rising",
+          "weight": 83
+        },
+        {
+          "word": "Legacy displacement",
+          "trend": "falling",
+          "weight": 31
+        },
+        {
+          "word": "Market saturation",
+          "trend": "stable",
+          "weight": 58
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 85
+        },
+        {
+          "month": "Feb",
+          "value": 85
+        },
+        {
+          "month": "Mar",
+          "value": 90
+        },
+        {
+          "month": "Apr",
+          "value": 86
+        },
+        {
+          "month": "May",
+          "value": 87
+        },
+        {
+          "month": "Jun",
+          "value": 88
+        },
+        {
+          "month": "Jul",
+          "value": 93
+        },
+        {
+          "month": "Aug",
+          "value": 89
+        },
+        {
+          "month": "Sep",
+          "value": 91
+        },
+        {
+          "month": "Oct",
+          "value": 89
+        },
+        {
+          "month": "Nov",
+          "value": 89
+        },
+        {
+          "month": "Dec",
+          "value": 95
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 27
+        },
+        {
+          "year": "2023",
+          "interest": 38
+        },
+        {
+          "year": "2024",
+          "interest": 56
+        },
+        {
+          "year": "2025",
+          "interest": 71
+        },
+        {
+          "year": "2026",
+          "interest": 84
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-05T20:01:52.341Z"
+    },
+    {
+      "id": "pred_26420845",
+      "userId": "user_seed_9091",
+      "query": "Quantum Computing",
+      "category": "Technology",
+      "direction": "rising",
+      "confidence": 85,
+      "summary": "LSTM network trained on 59-month sequences detects a robust upward temporal pattern for Quantum Computing. Hidden-state activations in layers 2–3 encode accelerating interest dynamics, while dropout regularisation confirms this is signal, not noise.",
+      "insights": [
+        "LSTM forget-gate activations increase steadily from layer 1 to layer 3, indicating the recurrent network is retaining growth-context across the full 47-month input window.",
+        "Attention weights in the final hidden layer peak at months 5, 10, and 12 — corresponding to industry-cycle renewal periods for Quantum Computing.",
+        "Training loss (MSE) plateaued at 0.0300 after 123 epochs; validation loss tracks within 0.0037 — no overfitting detected.",
+        "Captures long-range temporal dependencies and complex non-linear patterns, but requires large labelled datasets and is sensitive to learning rate schedule."
+      ],
+      "keywords": [
+        {
+          "word": "Quantum Computing growth",
+          "trend": "rising",
+          "weight": 88
+        },
+        {
+          "word": "Quantum Computing investment",
+          "trend": "rising",
+          "weight": 80
+        },
+        {
+          "word": "Legacy displacement",
+          "trend": "falling",
+          "weight": 42
+        },
+        {
+          "word": "Market saturation",
+          "trend": "stable",
+          "weight": 63
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 85
+        },
+        {
+          "month": "Feb",
+          "value": 94
+        },
+        {
+          "month": "Mar",
+          "value": 89
+        },
+        {
+          "month": "Apr",
+          "value": 92
+        },
+        {
+          "month": "May",
+          "value": 93
+        },
+        {
+          "month": "Jun",
+          "value": 85
+        },
+        {
+          "month": "Jul",
+          "value": 91
+        },
+        {
+          "month": "Aug",
+          "value": 86
+        },
+        {
+          "month": "Sep",
+          "value": 91
+        },
+        {
+          "month": "Oct",
+          "value": 92
+        },
+        {
+          "month": "Nov",
+          "value": 91
+        },
+        {
+          "month": "Dec",
+          "value": 97
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 20
+        },
+        {
+          "year": "2023",
+          "interest": 26
+        },
+        {
+          "year": "2024",
+          "interest": 45
+        },
+        {
+          "year": "2025",
+          "interest": 63
+        },
+        {
+          "year": "2026",
+          "interest": 84
+        }
+      ],
+      "modelUsed": "Neural Network",
+      "createdAt": "2026-06-05T20:06:09.835Z"
+    },
+    {
+      "id": "pred_b53fe007",
+      "userId": "user_seed_9091",
+      "query": "Blockchain Technology",
+      "category": "Technology",
+      "direction": "stable",
+      "confidence": 81,
+      "summary": "XGBoost converges on a STABLE classification for Blockchain Technology, with near-equal feature contributions across adoption and substitution signals. The boosted ensemble corrects oscillating residuals into a flat central trend.",
+      "insights": [
+        "XGBoost converged with near-zero residuals after 176 rounds — the shallow gradient indicates the signal has plateaued into a stable regime.",
+        "SHAP values for growth and decline features are within 0.065 of each other — statistical parity confirming equilibrium.",
+        "Feature importance for 'market saturation index': 37%, the single highest contributor to the stable classification.",
+        "Best-in-class accuracy on tabular trend data with feature importance, while noting sensitive to hyperparameter tuning and can overfit on noisy signals."
+      ],
+      "keywords": [
+        {
+          "word": "Blockchain Technology ecosystem",
+          "trend": "stable",
+          "weight": 99
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 82
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 58
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 34
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 74
+        },
+        {
+          "month": "Feb",
+          "value": 77
+        },
+        {
+          "month": "Mar",
+          "value": 77
+        },
+        {
+          "month": "Apr",
+          "value": 76
+        },
+        {
+          "month": "May",
+          "value": 78
+        },
+        {
+          "month": "Jun",
+          "value": 72
+        },
+        {
+          "month": "Jul",
+          "value": 73
+        },
+        {
+          "month": "Aug",
+          "value": 68
+        },
+        {
+          "month": "Sep",
+          "value": 67
+        },
+        {
+          "month": "Oct",
+          "value": 67
+        },
+        {
+          "month": "Nov",
+          "value": 71
+        },
+        {
+          "month": "Dec",
+          "value": 72
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 68
+        },
+        {
+          "year": "2023",
+          "interest": 75
+        },
+        {
+          "year": "2024",
+          "interest": 73
+        },
+        {
+          "year": "2025",
+          "interest": 75
+        },
+        {
+          "year": "2026",
+          "interest": 73
+        }
+      ],
+      "modelUsed": "Gradient Boosting",
+      "createdAt": "2026-06-06T07:16:45.504Z"
+    },
+    {
+      "id": "pred_d3714c75",
+      "userId": "user_2ffea926",
+      "query": "ai agents",
+      "category": "Technology",
+      "direction": "stable",
+      "confidence": 80,
+      "summary": "SVM places ai agents directly inside the equilibrium band around the decision hyperplane. Feature vectors show balanced positive and negative support vectors, confirming a neutral trend gradient.",
+      "insights": [
+        "SVM assigns ai agents to the equilibrium band within ±0.08 of the decision boundary — a statistically neutral position.",
+        "The soft-margin parameter C = 1.1 prevents over-penalising stable-trend samples, preserving smooth boundary curvature.",
+        "Classification precision on stable-trend test data: 86%, reflecting the model's strength in smooth boundary regions.",
+        "Excellent in high-margin classification boundaries, very smooth forecasts, though computationally expensive for large datasets above 50k samples."
+      ],
+      "keywords": [
+        {
+          "word": "ai agents ecosystem",
+          "trend": "stable",
+          "weight": 96
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 89
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 61
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 39
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 65
+        },
+        {
+          "month": "Feb",
+          "value": 67
+        },
+        {
+          "month": "Mar",
+          "value": 68
+        },
+        {
+          "month": "Apr",
+          "value": 70
+        },
+        {
+          "month": "May",
+          "value": 70
+        },
+        {
+          "month": "Jun",
+          "value": 66
+        },
+        {
+          "month": "Jul",
+          "value": 64
+        },
+        {
+          "month": "Aug",
+          "value": 63
+        },
+        {
+          "month": "Sep",
+          "value": 62
+        },
+        {
+          "month": "Oct",
+          "value": 63
+        },
+        {
+          "month": "Nov",
+          "value": 64
+        },
+        {
+          "month": "Dec",
+          "value": 67
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 65
+        },
+        {
+          "year": "2023",
+          "interest": 71
+        },
+        {
+          "year": "2024",
+          "interest": 67
+        },
+        {
+          "year": "2025",
+          "interest": 68
+        },
+        {
+          "year": "2026",
+          "interest": 66
+        }
+      ],
+      "modelUsed": "SVM",
+      "createdAt": "2026-06-06T10:47:11.409Z"
+    },
+    {
+      "id": "pred_caa8a116",
+      "userId": "user_2ffea926",
+      "query": "hot weather",
+      "category": "Climate",
+      "direction": "falling",
+      "confidence": 75,
+      "summary": "Random Forest ensemble voting across 571 feature trees flags a statistically significant decline for hot weather. Majority-vote consensus across sub-models identifies diminishing feature importance and shrinking market-signal amplitude.",
+      "insights": [
+        "98% of trees in the ensemble vote DECLINE, making this one of the highest-consensus falling predictions in this category.",
+        "Substitution-rate and maintenance-cost features dominate the split decisions, contributing 39% of total impurity reduction.",
+        "Historical OOB validation on 2019–2022 cycles shows the model correctly predicted similar declines with 80% accuracy.",
+        "Robust to outliers and non-linear feature interactions — however, can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "hot weather migration",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "hot weather decline",
+          "trend": "falling",
+          "weight": 23
+        },
+        {
+          "word": "Replacement tech",
+          "trend": "rising",
+          "weight": 94
+        },
+        {
+          "word": "Maintenance overhead",
+          "trend": "stable",
+          "weight": 75
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 22
+        },
+        {
+          "month": "Feb",
+          "value": 22
+        },
+        {
+          "month": "Mar",
+          "value": 18
+        },
+        {
+          "month": "Apr",
+          "value": 20
+        },
+        {
+          "month": "May",
+          "value": 17
+        },
+        {
+          "month": "Jun",
+          "value": 17
+        },
+        {
+          "month": "Jul",
+          "value": 17
+        },
+        {
+          "month": "Aug",
+          "value": 18
+        },
+        {
+          "month": "Sep",
+          "value": 13
+        },
+        {
+          "month": "Oct",
+          "value": 14
+        },
+        {
+          "month": "Nov",
+          "value": 16
+        },
+        {
+          "month": "Dec",
+          "value": 13
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 90
+        },
+        {
+          "year": "2023",
+          "interest": 74
+        },
+        {
+          "year": "2024",
+          "interest": 56
+        },
+        {
+          "year": "2025",
+          "interest": 40
+        },
+        {
+          "year": "2026",
+          "interest": 29
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-06T11:22:56.952Z"
+    },
+    {
+      "id": "pred_658c9009",
+      "userId": "user_2ffea926",
+      "query": "the divorce rate",
+      "category": "Society",
+      "direction": "stable",
+      "confidence": 68,
+      "summary": "Decision-tree classification routes the divorce rate to a STABLE leaf node with moderate tree depth. The model finds no decisive feature that tips the balance toward growth or contraction, indicating flat market equilibrium.",
+      "insights": [
+        "The tree terminates at a STABLE leaf with 20 splits; no single feature exceeded the 19% information-gain threshold for RISE or FALL.",
+        "Balanced split distribution: 53% of training samples in the subtree point mildly positive, 47% mildly negative — near-perfect balance.",
+        "Validation accuracy on stable-trend benchmarks: 79%, which is respectable given the inherent ambiguity of equilibrium classification.",
+        "Highly interpretable and fast to train, while noting prone to overfitting without depth constraints."
+      ],
+      "keywords": [
+        {
+          "word": "the divorce rate ecosystem",
+          "trend": "stable",
+          "weight": 87
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 85
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 53
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 37
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 52
+        },
+        {
+          "month": "Feb",
+          "value": 59
+        },
+        {
+          "month": "Mar",
+          "value": 69
+        },
+        {
+          "month": "Apr",
+          "value": 63
+        },
+        {
+          "month": "May",
+          "value": 62
+        },
+        {
+          "month": "Jun",
+          "value": 57
+        },
+        {
+          "month": "Jul",
+          "value": 57
+        },
+        {
+          "month": "Aug",
+          "value": 51
+        },
+        {
+          "month": "Sep",
+          "value": 45
+        },
+        {
+          "month": "Oct",
+          "value": 53
+        },
+        {
+          "month": "Nov",
+          "value": 46
+        },
+        {
+          "month": "Dec",
+          "value": 51
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 50
+        },
+        {
+          "year": "2023",
+          "interest": 58
+        },
+        {
+          "year": "2024",
+          "interest": 56
+        },
+        {
+          "year": "2025",
+          "interest": 56
+        },
+        {
+          "year": "2026",
+          "interest": 56
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-06-06T11:23:43.766Z"
+    },
+    {
+      "id": "pred_7ab58d6d",
+      "userId": "user_2ffea926",
+      "query": "rain in few days",
+      "category": "Climate",
+      "direction": "rising",
+      "confidence": 71,
+      "summary": "The CART decision tree reached a high-confidence RISE node for rain in few days after 19 branching splits. Key decision gates — funding volume, developer activity, and search frequency — all converged on bullish outcomes.",
+      "insights": [
+        "The CART tree reached the RISE leaf after 19 splits — key branch: 'YoY search interest growth > 29%' was the decisive node.",
+        "Tree depth of 12 levels isolates rain in few days's growth from seasonal noise; pruning at depth 8 preserved 98% of predictive accuracy.",
+        "Cross-validated accuracy on held-out 2024–2026 test folds: 80% — strong for a single-tree model on trend data.",
+        "Highly interpretable and fast to train, but prone to overfitting without depth constraints — validate with an ensemble method for production use."
+      ],
+      "keywords": [
+        {
+          "word": "rain in few days growth",
+          "trend": "rising",
+          "weight": 87
+        },
+        {
+          "word": "rain in few days investment",
+          "trend": "rising",
+          "weight": 73
+        },
+        {
+          "word": "Legacy displacement",
+          "trend": "falling",
+          "weight": 47
+        },
+        {
+          "word": "Market saturation",
+          "trend": "stable",
+          "weight": 66
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 87
+        },
+        {
+          "month": "Feb",
+          "value": 89
+        },
+        {
+          "month": "Mar",
+          "value": 88
+        },
+        {
+          "month": "Apr",
+          "value": 94
+        },
+        {
+          "month": "May",
+          "value": 90
+        },
+        {
+          "month": "Jun",
+          "value": 89
+        },
+        {
+          "month": "Jul",
+          "value": 95
+        },
+        {
+          "month": "Aug",
+          "value": 103
+        },
+        {
+          "month": "Sep",
+          "value": 94
+        },
+        {
+          "month": "Oct",
+          "value": 102
+        },
+        {
+          "month": "Nov",
+          "value": 96
+        },
+        {
+          "month": "Dec",
+          "value": 101
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 24
+        },
+        {
+          "year": "2023",
+          "interest": 36
+        },
+        {
+          "year": "2024",
+          "interest": 55
+        },
+        {
+          "year": "2025",
+          "interest": 72
+        },
+        {
+          "year": "2026",
+          "interest": 87
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-06-06T11:25:18.615Z"
+    },
+    {
+      "id": "pred_912533e5",
+      "userId": "user_2ffea926",
+      "query": "Robots in surgical field",
+      "category": "Healthcare",
+      "direction": "stable",
+      "confidence": 90,
+      "summary": "XGBoost converges on a STABLE classification for Robots in surgical field, with near-equal feature contributions across adoption and substitution signals. The boosted ensemble corrects oscillating residuals into a flat central trend.",
+      "insights": [
+        "XGBoost converged with near-zero residuals after 179 rounds — the shallow gradient indicates the signal has plateaued into a stable regime.",
+        "SHAP values for growth and decline features are within 0.039 of each other — statistical parity confirming equilibrium.",
+        "Feature importance for 'market saturation index': 40%, the single highest contributor to the stable classification.",
+        "Best-in-class accuracy on tabular trend data with feature importance, while noting sensitive to hyperparameter tuning and can overfit on noisy signals."
+      ],
+      "keywords": [
+        {
+          "word": "Robots in surgical field ecosystem",
+          "trend": "stable",
+          "weight": 97
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 85
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 55
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 45
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 58
+        },
+        {
+          "month": "Feb",
+          "value": 62
+        },
+        {
+          "month": "Mar",
+          "value": 63
+        },
+        {
+          "month": "Apr",
+          "value": 64
+        },
+        {
+          "month": "May",
+          "value": 63
+        },
+        {
+          "month": "Jun",
+          "value": 60
+        },
+        {
+          "month": "Jul",
+          "value": 57
+        },
+        {
+          "month": "Aug",
+          "value": 56
+        },
+        {
+          "month": "Sep",
+          "value": 53
+        },
+        {
+          "month": "Oct",
+          "value": 55
+        },
+        {
+          "month": "Nov",
+          "value": 55
+        },
+        {
+          "month": "Dec",
+          "value": 59
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 55
+        },
+        {
+          "year": "2023",
+          "interest": 62
+        },
+        {
+          "year": "2024",
+          "interest": 58
+        },
+        {
+          "year": "2025",
+          "interest": 59
+        },
+        {
+          "year": "2026",
+          "interest": 59
+        }
+      ],
+      "modelUsed": "Gradient Boosting",
+      "createdAt": "2026-06-06T11:38:06.008Z"
+    },
+    {
+      "id": "pred_0e1ecbeb",
+      "userId": "user_2ffea926",
+      "query": "female trending in marketing",
+      "category": "Society",
+      "direction": "rising",
+      "confidence": 68,
+      "summary": "The CART decision tree reached a high-confidence RISE node for female trending in marketing after 24 branching splits. Key decision gates — funding volume, developer activity, and search frequency — all converged on bullish outcomes.",
+      "insights": [
+        "The CART tree reached the RISE leaf after 24 splits — key branch: 'YoY search interest growth > 26%' was the decisive node.",
+        "Tree depth of 9 levels isolates female trending in marketing's growth from seasonal noise; pruning at depth 8 preserved 95% of predictive accuracy.",
+        "Cross-validated accuracy on held-out 2024–2026 test folds: 81% — strong for a single-tree model on trend data.",
+        "Highly interpretable and fast to train, but prone to overfitting without depth constraints — validate with an ensemble method for production use."
+      ],
+      "keywords": [
+        {
+          "word": "female trending in marketing growth",
+          "trend": "rising",
+          "weight": 84
+        },
+        {
+          "word": "female trending in marketing investment",
+          "trend": "rising",
+          "weight": 78
+        },
+        {
+          "word": "Legacy displacement",
+          "trend": "falling",
+          "weight": 44
+        },
+        {
+          "word": "Market saturation",
+          "trend": "stable",
+          "weight": 66
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 70
+        },
+        {
+          "month": "Feb",
+          "value": 61
+        },
+        {
+          "month": "Mar",
+          "value": 68
+        },
+        {
+          "month": "Apr",
+          "value": 70
+        },
+        {
+          "month": "May",
+          "value": 72
+        },
+        {
+          "month": "Jun",
+          "value": 68
+        },
+        {
+          "month": "Jul",
+          "value": 71
+        },
+        {
+          "month": "Aug",
+          "value": 77
+        },
+        {
+          "month": "Sep",
+          "value": 71
+        },
+        {
+          "month": "Oct",
+          "value": 74
+        },
+        {
+          "month": "Nov",
+          "value": 77
+        },
+        {
+          "month": "Dec",
+          "value": 80
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 8
+        },
+        {
+          "year": "2023",
+          "interest": 21
+        },
+        {
+          "year": "2024",
+          "interest": 40
+        },
+        {
+          "year": "2025",
+          "interest": 59
+        },
+        {
+          "year": "2026",
+          "interest": 63
+        }
+      ],
+      "modelUsed": "Decision Tree",
+      "createdAt": "2026-06-06T11:39:36.854Z"
+    },
+    {
+      "id": "pred_8d2dcaec",
+      "userId": "user_2ffea926",
+      "query": ".",
+      "category": "Society",
+      "direction": "stable",
+      "confidence": 86,
+      "summary": "Random Forest ensemble analysis rates . as entrenched and mature. Variance between trees is minimal, indicating strong market equilibrium with low sensitivity to external shocks.",
+      "insights": [
+        "Forest consensus for 'stable' reaches 80%, with equal splits between growth and decline trees cancelling out directional bias.",
+        "Top features — 'patent filing rate' and 'enterprise contract renewals' — both show flat year-over-year deltas, reinforcing the equilibrium call.",
+        "Variance across trees is unusually low (σ = 1.2), signalling a deeply mature, low-volatility market phase.",
+        "Robust to outliers and non-linear feature interactions — bear in mind: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": ". ecosystem",
+          "trend": "stable",
+          "weight": 90
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 88
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 48
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 44
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 45
+        },
+        {
+          "month": "Feb",
+          "value": 43
+        },
+        {
+          "month": "Mar",
+          "value": 47
+        },
+        {
+          "month": "Apr",
+          "value": 49
+        },
+        {
+          "month": "May",
+          "value": 48
+        },
+        {
+          "month": "Jun",
+          "value": 43
+        },
+        {
+          "month": "Jul",
+          "value": 38
+        },
+        {
+          "month": "Aug",
+          "value": 38
+        },
+        {
+          "month": "Sep",
+          "value": 37
+        },
+        {
+          "month": "Oct",
+          "value": 37
+        },
+        {
+          "month": "Nov",
+          "value": 38
+        },
+        {
+          "month": "Dec",
+          "value": 45
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 44
+        },
+        {
+          "year": "2023",
+          "interest": 47
+        },
+        {
+          "year": "2024",
+          "interest": 43
+        },
+        {
+          "year": "2025",
+          "interest": 49
+        },
+        {
+          "year": "2026",
+          "interest": 42
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-06T20:07:59.790Z"
+    },
+    {
+      "id": "pred_89142183",
+      "userId": "user_2ffea926",
+      "query": "check the json file",
+      "category": "Society",
+      "direction": "falling",
+      "confidence": 86,
+      "summary": "Random Forest ensemble voting across 552 feature trees flags a statistically significant decline for check the json file. Majority-vote consensus across sub-models identifies diminishing feature importance and shrinking market-signal amplitude.",
+      "insights": [
+        "95% of trees in the ensemble vote DECLINE, making this one of the highest-consensus falling predictions in this category.",
+        "Substitution-rate and maintenance-cost features dominate the split decisions, contributing 40% of total impurity reduction.",
+        "Historical OOB validation on 2019–2022 cycles shows the model correctly predicted similar declines with 81% accuracy.",
+        "Robust to outliers and non-linear feature interactions — however, can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "check the json file migration",
+          "trend": "rising",
+          "weight": 89
+        },
+        {
+          "word": "check the json file decline",
+          "trend": "falling",
+          "weight": 24
+        },
+        {
+          "word": "Replacement tech",
+          "trend": "rising",
+          "weight": 91
+        },
+        {
+          "word": "Maintenance overhead",
+          "trend": "stable",
+          "weight": 68
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 5
+        },
+        {
+          "month": "Feb",
+          "value": 5
+        },
+        {
+          "month": "Mar",
+          "value": 5
+        },
+        {
+          "month": "Apr",
+          "value": 5
+        },
+        {
+          "month": "May",
+          "value": 5
+        },
+        {
+          "month": "Jun",
+          "value": 5
+        },
+        {
+          "month": "Jul",
+          "value": 5
+        },
+        {
+          "month": "Aug",
+          "value": 5
+        },
+        {
+          "month": "Sep",
+          "value": 5
+        },
+        {
+          "month": "Oct",
+          "value": 5
+        },
+        {
+          "month": "Nov",
+          "value": 5
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 70
+        },
+        {
+          "year": "2023",
+          "interest": 51
+        },
+        {
+          "year": "2024",
+          "interest": 36
+        },
+        {
+          "year": "2025",
+          "interest": 18
+        },
+        {
+          "year": "2026",
+          "interest": 8
+        }
+      ],
+      "modelUsed": "AutoML",
+      "createdAt": "2026-06-06T20:38:45.762Z"
+    },
+    {
+      "id": "pred_3ff234b5",
+      "userId": "user_2ffea926",
+      "query": ".",
+      "category": "Business",
+      "direction": "stable",
+      "confidence": 88,
+      "summary": "Random Forest ensemble analysis rates . as entrenched and mature. Variance between trees is minimal, indicating strong market equilibrium with low sensitivity to external shocks.",
+      "insights": [
+        "Forest consensus for 'stable' reaches 82%, with equal splits between growth and decline trees cancelling out directional bias.",
+        "Top features — 'patent filing rate' and 'enterprise contract renewals' — both show flat year-over-year deltas, reinforcing the equilibrium call.",
+        "Variance across trees is unusually low (σ = 1.1), signalling a deeply mature, low-volatility market phase.",
+        "Robust to outliers and non-linear feature interactions — bear in mind: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": ". ecosystem",
+          "trend": "stable",
+          "weight": 92
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 86
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 56
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 42
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 44
+        },
+        {
+          "month": "Feb",
+          "value": 51
+        },
+        {
+          "month": "Mar",
+          "value": 50
+        },
+        {
+          "month": "Apr",
+          "value": 54
+        },
+        {
+          "month": "May",
+          "value": 52
+        },
+        {
+          "month": "Jun",
+          "value": 50
+        },
+        {
+          "month": "Jul",
+          "value": 43
+        },
+        {
+          "month": "Aug",
+          "value": 41
+        },
+        {
+          "month": "Sep",
+          "value": 38
+        },
+        {
+          "month": "Oct",
+          "value": 41
+        },
+        {
+          "month": "Nov",
+          "value": 41
+        },
+        {
+          "month": "Dec",
+          "value": 43
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 38
+        },
+        {
+          "year": "2023",
+          "interest": 46
+        },
+        {
+          "year": "2024",
+          "interest": 43
+        },
+        {
+          "year": "2025",
+          "interest": 44
+        },
+        {
+          "year": "2026",
+          "interest": 46
+        }
+      ],
+      "modelUsed": "AutoML",
+      "createdAt": "2026-06-06T20:44:44.493Z"
+    },
+    {
+      "id": "pred_812254c3",
+      "userId": "user_2ffea926",
+      "query": "AI in business",
+      "category": "Business",
+      "direction": "rising",
+      "confidence": 78,
+      "summary": "Random Forest ensemble analysis across 649 feature trees places AI in business in a strong upward trajectory. Aggregated majority-vote signals confirm accelerating adoption momentum with high inter-tree consensus.",
+      "insights": [
+        "Ensemble agreement rate is 83% — trees trained on 2020–2026 data consistently vote RISE for AI in business, indicating robust cross-period signal.",
+        "Feature importance analysis ranks 'developer search volume' and 'VC deal count' as the top two predictors, together accounting for 50% of variance.",
+        "Out-of-bag (OOB) error rate is 4%, well below the 8% threshold, confirming the model is not overfitting to training noise.",
+        "Robust to outliers and non-linear feature interactions — but note: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "AI in business growth",
+          "trend": "rising",
+          "weight": 93
+        },
+        {
+          "word": "AI in business investment",
+          "trend": "rising",
+          "weight": 89
+        },
+        {
+          "word": "Legacy displacement",
+          "trend": "falling",
+          "weight": 29
+        },
+        {
+          "word": "Market saturation",
+          "trend": "stable",
+          "weight": 59
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 80
+        },
+        {
+          "month": "Feb",
+          "value": 79
+        },
+        {
+          "month": "Mar",
+          "value": 81
+        },
+        {
+          "month": "Apr",
+          "value": 83
+        },
+        {
+          "month": "May",
+          "value": 82
+        },
+        {
+          "month": "Jun",
+          "value": 81
+        },
+        {
+          "month": "Jul",
+          "value": 84
+        },
+        {
+          "month": "Aug",
+          "value": 83
+        },
+        {
+          "month": "Sep",
+          "value": 85
+        },
+        {
+          "month": "Oct",
+          "value": 86
+        },
+        {
+          "month": "Nov",
+          "value": 84
+        },
+        {
+          "month": "Dec",
+          "value": 87
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 17
+        },
+        {
+          "year": "2023",
+          "interest": 27
+        },
+        {
+          "year": "2024",
+          "interest": 49
+        },
+        {
+          "year": "2025",
+          "interest": 64
+        },
+        {
+          "year": "2026",
+          "interest": 76
+        }
+      ],
+      "modelUsed": "AutoML",
+      "createdAt": "2026-06-06T20:44:44.494Z"
+    },
+    {
+      "id": "pred_cfd8e905",
+      "userId": "user_2ffea926",
+      "query": "coldness",
+      "category": "Climate",
+      "direction": "stable",
+      "confidence": 87,
+      "summary": "Random Forest ensemble analysis rates coldness as entrenched and mature. Variance between trees is minimal, indicating strong market equilibrium with low sensitivity to external shocks.",
+      "insights": [
+        "Forest consensus for 'stable' reaches 84%, with equal splits between growth and decline trees cancelling out directional bias.",
+        "Top features — 'patent filing rate' and 'enterprise contract renewals' — both show flat year-over-year deltas, reinforcing the equilibrium call.",
+        "Variance across trees is unusually low (σ = 1.5), signalling a deeply mature, low-volatility market phase.",
+        "Robust to outliers and non-linear feature interactions — bear in mind: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "coldness ecosystem",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 84
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 64
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 36
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 56
+        },
+        {
+          "month": "Feb",
+          "value": 63
+        },
+        {
+          "month": "Mar",
+          "value": 64
+        },
+        {
+          "month": "Apr",
+          "value": 63
+        },
+        {
+          "month": "May",
+          "value": 58
+        },
+        {
+          "month": "Jun",
+          "value": 56
+        },
+        {
+          "month": "Jul",
+          "value": 56
+        },
+        {
+          "month": "Aug",
+          "value": 55
+        },
+        {
+          "month": "Sep",
+          "value": 52
+        },
+        {
+          "month": "Oct",
+          "value": 49
+        },
+        {
+          "month": "Nov",
+          "value": 55
+        },
+        {
+          "month": "Dec",
+          "value": 56
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 50
+        },
+        {
+          "year": "2023",
+          "interest": 59
+        },
+        {
+          "year": "2024",
+          "interest": 53
+        },
+        {
+          "year": "2025",
+          "interest": 55
+        },
+        {
+          "year": "2026",
+          "interest": 57
+        }
+      ],
+      "modelUsed": "AutoML",
+      "createdAt": "2026-06-06T21:34:08.837Z"
+    },
+    {
+      "id": "pred_4c55ac90",
+      "userId": "user_2ffea926",
+      "query": "DeFi Yield Auditing",
+      "category": "Technology",
+      "direction": "rising",
+      "confidence": 74,
+      "summary": "Random Forest ensemble analysis across 590 feature trees places DeFi Yield Auditing in a strong upward trajectory. Aggregated majority-vote signals confirm accelerating adoption momentum with high inter-tree consensus.",
+      "insights": [
+        "Ensemble agreement rate is 88% — trees trained on 2020–2026 data consistently vote RISE for DeFi Yield Auditing, indicating robust cross-period signal.",
+        "Feature importance analysis ranks 'developer search volume' and 'VC deal count' as the top two predictors, together accounting for 41% of variance.",
+        "Out-of-bag (OOB) error rate is 5%, well below the 8% threshold, confirming the model is not overfitting to training noise.",
+        "Robust to outliers and non-linear feature interactions — but note: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "DeFi Yield Auditing growth",
+          "trend": "rising",
+          "weight": 90
+        },
+        {
+          "word": "DeFi Yield Auditing investment",
+          "trend": "rising",
+          "weight": 80
+        },
+        {
+          "word": "Legacy displacement",
+          "trend": "falling",
+          "weight": 34
+        },
+        {
+          "word": "Market saturation",
+          "trend": "stable",
+          "weight": 55
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 91
+        },
+        {
+          "month": "Feb",
+          "value": 91
+        },
+        {
+          "month": "Mar",
+          "value": 89
+        },
+        {
+          "month": "Apr",
+          "value": 94
+        },
+        {
+          "month": "May",
+          "value": 90
+        },
+        {
+          "month": "Jun",
+          "value": 92
+        },
+        {
+          "month": "Jul",
+          "value": 95
+        },
+        {
+          "month": "Aug",
+          "value": 94
+        },
+        {
+          "month": "Sep",
+          "value": 97
+        },
+        {
+          "month": "Oct",
+          "value": 96
+        },
+        {
+          "month": "Nov",
+          "value": 92
+        },
+        {
+          "month": "Dec",
+          "value": 98
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 27
+        },
+        {
+          "year": "2023",
+          "interest": 36
+        },
+        {
+          "year": "2024",
+          "interest": 58
+        },
+        {
+          "year": "2025",
+          "interest": 73
+        },
+        {
+          "year": "2026",
+          "interest": 87
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "createdAt": "2026-06-06T21:36:36.362Z"
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": "log_seed_1",
+      "userId": "user_seed_9091",
+      "action": "Generated seed analysis for Artificial Intelligence in Legal Services",
+      "timestamp": "2026-05-26T11:59:25.376Z"
+    },
+    {
+      "id": "log_62c8f86f",
+      "userId": "user_23f88845",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-05-26T12:01:02.239Z"
+    },
+    {
+      "id": "log_33d41328",
+      "userId": "user_23f88845",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T12:01:39.611Z"
+    },
+    {
+      "id": "log_a988e434",
+      "userId": "user_23f88845",
+      "action": "Analyzed \"jeans\" under Society using Fallback Engine",
+      "timestamp": "2026-05-26T12:02:02.969Z"
+    },
+    {
+      "id": "log_8feebaca",
+      "userId": "user_23f88845",
+      "action": "Analyzed \"jeans\" under Technology using Fallback Engine",
+      "timestamp": "2026-05-26T12:02:13.213Z"
+    },
+    {
+      "id": "log_993ab665",
+      "userId": "user_23f88845",
+      "action": "Analyzed \"hot\" under Climate using Fallback Engine",
+      "timestamp": "2026-05-26T12:02:57.326Z"
+    },
+    {
+      "id": "log_48953a31",
+      "userId": "user_23f88845",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T12:03:40.186Z"
+    },
+    {
+      "id": "log_f9b2fe6c",
+      "userId": "user_23f88845",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T12:03:46.301Z"
+    },
+    {
+      "id": "log_b8b0cf6a",
+      "userId": "user_23f88845",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-05-26T12:05:07.375Z"
+    },
+    {
+      "id": "log_8dbbf189",
+      "userId": "user_334830ba",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-05-26T12:06:03.373Z"
+    },
+    {
+      "id": "log_56053cdb",
+      "userId": "user_334830ba",
+      "action": "Analyzed \"horror movies\" under Entertainment using Fallback Engine",
+      "timestamp": "2026-05-26T12:06:40.202Z"
+    },
+    {
+      "id": "log_b3f05c05",
+      "userId": "user_334830ba",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T12:06:57.749Z"
+    },
+    {
+      "id": "log_4c8b275f",
+      "userId": "user_9117a4d7",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-05-26T13:19:55.295Z"
+    },
+    {
+      "id": "log_be75acd6",
+      "userId": "user_9117a4d7",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T13:20:15.050Z"
+    },
+    {
+      "id": "log_b8d62e7f",
+      "userId": "user_9117a4d7",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T13:20:28.261Z"
+    },
+    {
+      "id": "log_1aae19a6",
+      "userId": "user_9117a4d7",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T13:20:32.131Z"
+    },
+    {
+      "id": "log_886ad605",
+      "userId": "user_9117a4d7",
+      "action": "Analyzed \"optic things\" under Healthcare using Fallback Engine",
+      "timestamp": "2026-05-26T13:21:15.813Z"
+    },
+    {
+      "id": "log_84e61510",
+      "userId": "user_213b7fdc",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-05-26T13:23:39.288Z"
+    },
+    {
+      "id": "log_4eef5fc0",
+      "userId": "user_213b7fdc",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T13:23:49.905Z"
+    },
+    {
+      "id": "log_9c303bb7",
+      "userId": "user_213b7fdc",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T13:23:56.321Z"
+    },
+    {
+      "id": "log_9b5b8591",
+      "userId": "user_213b7fdc",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-26T13:24:00.463Z"
+    },
+    {
+      "id": "log_c0c1cc7d",
+      "userId": "user_213b7fdc",
+      "action": "Analyzed \"VS code\" under Technology using Fallback Engine",
+      "timestamp": "2026-05-26T13:24:14.472Z"
+    },
+    {
+      "id": "log_8aba53ab",
+      "userId": "user_c9ae6bb0",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-05-29T12:03:07.982Z"
+    },
+    {
+      "id": "log_40812ee1",
+      "userId": "user_c9ae6bb0",
+      "action": "Analyzed \"software houses\" under Healthcare using Fallback Engine",
+      "timestamp": "2026-05-29T12:04:15.935Z"
+    },
+    {
+      "id": "log_368fcc2d",
+      "userId": "user_c9ae6bb0",
+      "action": "Analyzed \"artificial intelligence\" under Technology using Fallback Engine",
+      "timestamp": "2026-05-29T12:05:04.579Z"
+    },
+    {
+      "id": "log_45ee2d0c",
+      "userId": "user_c9ae6bb0",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-29T12:06:20.200Z"
+    },
+    {
+      "id": "log_50a3ac04",
+      "userId": "user_c9ae6bb0",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-29T12:06:27.449Z"
+    },
+    {
+      "id": "log_a38ab81b",
+      "userId": "user_c9ae6bb0",
+      "action": "Analyzed \"Cyber secrity\" under Technology using Fallback Engine",
+      "timestamp": "2026-05-29T12:08:00.162Z"
+    },
+    {
+      "id": "log_ff352e8b",
+      "userId": "user_c9ae6bb0",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-29T12:08:45.502Z"
+    },
+    {
+      "id": "log_927496ae",
+      "userId": "user_c9ae6bb0",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-29T12:08:51.459Z"
+    },
+    {
+      "id": "log_bb1370ac",
+      "userId": "user_c9ae6bb0",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-05-29T12:08:59.671Z"
+    },
+    {
+      "id": "log_cc4bcb99",
+      "userId": "user_c9ae6bb0",
+      "action": "Removed a trend analysis entry from personal archive",
+      "timestamp": "2026-05-29T12:09:29.916Z"
+    },
+    {
+      "id": "log_758f4276",
+      "userId": "user_c9ae6bb0",
+      "action": "Analyzed \"rawalpindi weather\" under Climate using Fallback Engine",
+      "timestamp": "2026-05-29T12:10:51.689Z"
+    },
+    {
+      "id": "log_ec015bdf",
+      "userId": "user_seed_9091",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-01T15:50:46.413Z"
+    },
+    {
+      "id": "log_057e3fb8",
+      "userId": "user_7b893f3d",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-06-01T15:57:28.575Z"
+    },
+    {
+      "id": "log_375a91ae",
+      "userId": "user_7b893f3d",
+      "action": "Analyzed \"Trend  for the Artificial  Intelligence\" under Technology using Fallback Engine",
+      "timestamp": "2026-06-01T16:02:11.893Z"
+    },
+    {
+      "id": "log_143b347e",
+      "userId": "user_47947808",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-06-01T17:02:59.193Z"
+    },
+    {
+      "id": "log_33db1fe4",
+      "userId": "user_47947808",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-01T17:03:18.087Z"
+    },
+    {
+      "id": "log_d9bcccc4",
+      "userId": "user_47947808",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-01T17:03:21.910Z"
+    },
+    {
+      "id": "log_41ca08d0",
+      "userId": "user_47947808",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-01T17:03:27.105Z"
+    },
+    {
+      "id": "log_cdf15647",
+      "userId": "user_47947808",
+      "action": "Analyzed \"Artificial Intelligence trend analysis\" under Technology using Fallback Engine",
+      "timestamp": "2026-06-01T17:04:07.012Z"
+    },
+    {
+      "id": "log_64ae60cd",
+      "userId": "user_47947808",
+      "action": "Analyzed \"Food Business trend analysis\" under Business using Fallback Engine",
+      "timestamp": "2026-06-01T17:05:02.908Z"
+    },
+    {
+      "id": "log_ee88a61f",
+      "userId": "user_47947808",
+      "action": "Analyzed \"Software Engineering\" under Technology using Fallback Engine",
+      "timestamp": "2026-06-01T17:05:51.597Z"
+    },
+    {
+      "id": "log_7bf879ec",
+      "userId": "user_7b893f3d",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-01T17:10:56.471Z"
+    },
+    {
+      "id": "log_f0199795",
+      "userId": "user_7b893f3d",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-01T17:12:36.795Z"
+    },
+    {
+      "id": "log_eb64d1ba",
+      "userId": "user_7b893f3d",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-01T17:13:10.194Z"
+    },
+    {
+      "id": "log_acbefded",
+      "userId": "user_7b893f3d",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-01T17:13:14.925Z"
+    },
+    {
+      "id": "log_0f8c24f4",
+      "userId": "user_7b893f3d",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-01T17:13:22.681Z"
+    },
+    {
+      "id": "log_62ca5df1",
+      "userId": "user_7b893f3d",
+      "action": "Analyzed \"Scope of the software engineering\" under Technology using Fallback Engine",
+      "timestamp": "2026-06-01T17:13:44.246Z"
+    },
+    {
+      "id": "log_b46dd562",
+      "userId": "user_7b893f3d",
+      "action": "Analyzed \"Muslim culture in America\" under Society using Fallback Engine",
+      "timestamp": "2026-06-01T17:14:39.614Z"
+    },
+    {
+      "id": "log_2232d629",
+      "userId": "user_7b893f3d",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-02T06:08:41.364Z"
+    },
+    {
+      "id": "log_f836b14d",
+      "userId": "user_7b893f3d",
+      "action": "Analyzed \"food\" under Business using Fallback Engine",
+      "timestamp": "2026-06-02T06:09:02.661Z"
+    },
+    {
+      "id": "log_a554459f",
+      "userId": "user_7b893f3d",
+      "action": "Analyzed \"rawalpindi weather\" under Climate using Fallback Engine",
+      "timestamp": "2026-06-02T06:10:17.877Z"
+    },
+    {
+      "id": "log_75bcd2b6",
+      "userId": "user_7b893f3d",
+      "action": "Analyzed \"biryan palao and burge trends\" under Business using Fallback Engine",
+      "timestamp": "2026-06-02T06:12:30.932Z"
+    },
+    {
+      "id": "log_864a960b",
+      "userId": "user_19312858",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-06-02T06:53:57.490Z"
+    },
+    {
+      "id": "log_5de23421",
+      "userId": "user_19312858",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-02T06:55:12.280Z"
+    },
+    {
+      "id": "log_812b6a48",
+      "userId": "user_19312858",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-02T06:55:18.352Z"
+    },
+    {
+      "id": "log_0736ab53",
+      "userId": "user_19312858",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-02T06:55:24.116Z"
+    },
+    {
+      "id": "log_dec4b8d5",
+      "userId": "user_19312858",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-02T06:55:27.491Z"
+    },
+    {
+      "id": "log_2b237288",
+      "userId": "user_19312858",
+      "action": "Analyzed \"laptop market in 2023\" under Technology using Fallback Engine",
+      "timestamp": "2026-06-02T06:56:02.794Z"
+    },
+    {
+      "id": "log_7d80da93",
+      "userId": "user_19312858",
+      "action": "Analyzed \"ecg\" under Healthcare using Fallback Engine",
+      "timestamp": "2026-06-02T06:57:27.625Z"
+    },
+    {
+      "id": "log_6d16e25c",
+      "userId": "user_19312858",
+      "action": "Analyzed \"Aritificial agents\" under Technology using Fallback Engine",
+      "timestamp": "2026-06-02T06:58:51.301Z"
+    },
+    {
+      "id": "log_76d37f6b",
+      "userId": "user_19312858",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-03T08:47:52.980Z"
+    },
+    {
+      "id": "log_36b37a33",
+      "userId": "user_19312858",
+      "action": "Analyzed \"divorce rate in islamabad\" under Society using Fallback Engine",
+      "timestamp": "2026-06-03T08:49:47.654Z"
+    },
+    {
+      "id": "log_d9de316c",
+      "userId": "user_677d9c04",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-06-05T17:32:10.041Z"
+    },
+    {
+      "id": "log_2781cd08",
+      "userId": "user_677d9c04",
+      "action": "Analyzed \"Artificial intelligence  boom\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-05T17:33:00.588Z"
+    },
+    {
+      "id": "log_446cf46b",
+      "userId": "user_677d9c04",
+      "action": "Compared trends: \"food business\" vs \"clothing busines\" under Business",
+      "timestamp": "2026-06-05T17:35:20.811Z"
+    },
+    {
+      "id": "log_bd7f20d7",
+      "userId": "user_7b893f3d",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-05T18:18:06.302Z"
+    },
+    {
+      "id": "log_746dd5cb",
+      "userId": "user_7b893f3d",
+      "action": "Analyzed \"ai\" under Climate using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-05T18:18:27.295Z"
+    },
+    {
+      "id": "log_e2b9c042",
+      "userId": "user_7b893f3d",
+      "action": "Analyzed \"world\" under Healthcare using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-05T18:19:00.804Z"
+    },
+    {
+      "id": "log_9e75556f",
+      "userId": "user_19312858",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-05T18:38:52.113Z"
+    },
+    {
+      "id": "log_f8d3f70b",
+      "userId": "user_19312858",
+      "action": "Analyzed \"choopa\" under Society using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-05T18:40:16.435Z"
+    },
+    {
+      "id": "log_7ee8dcce",
+      "userId": "user_19312858",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-05T19:16:41.597Z"
+    },
+    {
+      "id": "log_9740e2a3",
+      "userId": "user_seed_9091",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-05T19:56:33.635Z"
+    },
+    {
+      "id": "log_5b215eb5",
+      "userId": "user_19312858",
+      "action": "Analyzed \"ai\" under Climate using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-05T20:00:25.604Z"
+    },
+    {
+      "id": "log_e44b43f5",
+      "userId": "user_19312858",
+      "action": "Analyzed \"well\" under Climate using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-05T20:00:58.669Z"
+    },
+    {
+      "id": "log_c7984eff",
+      "userId": "user_seed_9091",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-05T20:01:51.858Z"
+    },
+    {
+      "id": "log_350f0908",
+      "userId": "user_seed_9091",
+      "action": "Analyzed \"Artificial Intelligence\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-05T20:01:52.341Z"
+    },
+    {
+      "id": "log_b1399faa",
+      "userId": "user_seed_9091",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-05T20:06:09.329Z"
+    },
+    {
+      "id": "log_7ed16fb9",
+      "userId": "user_seed_9091",
+      "action": "Analyzed \"Quantum Computing\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-05T20:06:09.835Z"
+    },
+    {
+      "id": "log_90fc6c31",
+      "userId": "user_19312858",
+      "action": "Analyzed \"jjj\" under Climate using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-05T20:08:05.079Z"
+    },
+    {
+      "id": "log_b4304124",
+      "userId": "user_19312858",
+      "action": "Removed a trend analysis entry from personal archive",
+      "timestamp": "2026-06-05T20:09:16.151Z"
+    },
+    {
+      "id": "log_18fd3088",
+      "userId": "user_19312858",
+      "action": "Removed a trend analysis entry from personal archive",
+      "timestamp": "2026-06-05T20:09:22.997Z"
+    },
+    {
+      "id": "log_272fcb27",
+      "userId": "user_seed_9091",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-06T07:16:43.984Z"
+    },
+    {
+      "id": "log_9318c41e",
+      "userId": "user_seed_9091",
+      "action": "Analyzed \"Blockchain Technology\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T07:16:45.504Z"
+    },
+    {
+      "id": "log_616f1acb",
+      "userId": "user_2ffea926",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-06-06T09:46:32.381Z"
+    },
+    {
+      "id": "log_f44d788f",
+      "userId": "user_2ffea926",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-06T09:46:54.969Z"
+    },
+    {
+      "id": "log_543fe710",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T09:47:13.430Z"
+    },
+    {
+      "id": "log_613a3320",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T09:47:27.189Z"
+    },
+    {
+      "id": "log_835b7abe",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T09:47:34.771Z"
+    },
+    {
+      "id": "log_2c658cc3",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T09:47:44.004Z"
+    },
+    {
+      "id": "log_79c2b95e",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T09:47:52.754Z"
+    },
+    {
+      "id": "log_50a26fbb",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"web hosting\" under Healthcare using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T09:48:32.313Z"
+    },
+    {
+      "id": "log_e6c24c84",
+      "userId": "user_2ffea926",
+      "action": "Removed a trend analysis entry from personal archive",
+      "timestamp": "2026-06-06T09:49:15.131Z"
+    },
+    {
+      "id": "log_350549a6",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T10:46:31.130Z"
+    },
+    {
+      "id": "log_e29aa9c1",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T10:46:36.042Z"
+    },
+    {
+      "id": "log_ea7cb209",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T10:46:44.678Z"
+    },
+    {
+      "id": "log_12062727",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"ai agents\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T10:47:11.409Z"
+    },
+    {
+      "id": "log_3c94c3a7",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"hot weather\" under Climate using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T11:22:56.952Z"
+    },
+    {
+      "id": "log_e451527e",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"the divorce rate\" under Society using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T11:23:43.766Z"
+    },
+    {
+      "id": "log_1c9f3a2d",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:24:03.462Z"
+    },
+    {
+      "id": "log_750ec5fd",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:24:07.643Z"
+    },
+    {
+      "id": "log_aa274a96",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:24:12.130Z"
+    },
+    {
+      "id": "log_da7480bc",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:24:23.212Z"
+    },
+    {
+      "id": "log_0f743a34",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:24:40.029Z"
+    },
+    {
+      "id": "log_76eddf1f",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:24:43.211Z"
+    },
+    {
+      "id": "log_95266325",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"rain in few days\" under Climate using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T11:25:18.616Z"
+    },
+    {
+      "id": "log_968cf863",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:29:35.645Z"
+    },
+    {
+      "id": "log_4bdbd69b",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:29:48.474Z"
+    },
+    {
+      "id": "log_aabc319f",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:30:03.376Z"
+    },
+    {
+      "id": "log_f81155cd",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:37:14.586Z"
+    },
+    {
+      "id": "log_1f7782ef",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T11:37:19.875Z"
+    },
+    {
+      "id": "log_c6f80f99",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"Robots in surgical field\" under Healthcare using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T11:38:06.009Z"
+    },
+    {
+      "id": "log_d26f08bf",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"female trending in marketing\" under Society using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T11:39:36.854Z"
+    },
+    {
+      "id": "log_697c5f5b",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \".\" under Society using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T19:50:57.146Z"
+    },
+    {
+      "id": "log_5ceb23d9",
+      "userId": "user_2ffea926",
+      "action": "Removed a trend analysis entry from personal archive",
+      "timestamp": "2026-06-06T20:07:43.225Z"
+    },
+    {
+      "id": "log_41900453",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \".\" under Society using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T20:07:59.791Z"
+    },
+    {
+      "id": "log_740213cb",
+      "userId": "user_2ffea926",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-06T20:26:32.074Z"
+    },
+    {
+      "id": "log_f99fa42d",
+      "userId": "user_2ffea926",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-06T20:27:01.099Z"
+    },
+    {
+      "id": "log_2f844b64",
+      "userId": "user_2ffea926",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-06T20:37:01.039Z"
+    },
+    {
+      "id": "log_3f6bb5c7",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"check the json file\" under Society using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T20:38:45.763Z"
+    },
+    {
+      "id": "log_7e70915b",
+      "userId": "user_2ffea926",
+      "action": "Compared trends: \".\" vs \"AI in business\" under Business",
+      "timestamp": "2026-06-06T20:44:45.011Z"
+    },
+    {
+      "id": "log_6733f589",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"coldness\" under Climate using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T21:34:08.838Z"
+    },
+    {
+      "id": "log_9cf3069f",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"DeFi Yield Auditing\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-06T21:36:36.363Z"
+    },
+    {
+      "id": "log_bbe656f3",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-06T21:37:44.581Z"
+    }
+  ],
+  "watchlist": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "TrendVision AI",
+  "description": "AI-powered Future Trend Prediction and Analytics platform with interactive dashboards, user profiles, history tracking, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
