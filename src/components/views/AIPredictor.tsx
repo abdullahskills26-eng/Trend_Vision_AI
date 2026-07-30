@@ -44,6 +44,7 @@ export default function AIPredictor({
 
   // ── Async / result state ───────────────────────────────────────────────────
   const [loading, setLoading] = useState(false);
+  const [isExporting, setIsExporting] = useState(false);
   const [loadingText, setLoadingText] = useState('Initializing connection...');
   const [prediction, setPrediction] = useState<TrendPrediction | null>(() => {
     if (typeof window === 'undefined') return null;
@@ -217,24 +218,72 @@ export default function AIPredictor({
 
   // ── PDF export ────────────────────────────────────────────────────────────
   const handleExportPDF = async () => {
-    if (!reportRef.current) return;
+    const report = reportRef.current;
+    if (!report || !prediction || isExporting) {
+      if (!prediction) onToast('Generate a forecast before exporting a report.', 'info');
+      return;
+    }
+
     try {
+      setIsExporting(true);
       onToast('Generating PDF...', 'info');
-      const [{ default: jsPDF }, { default: html2canvas }] = await Promise.all([
+      const [jsPdfModule, html2canvasModule] = await Promise.all([
         import('jspdf'),
         import('html2canvas')
       ]);
-      const canvas = await html2canvas(reportRef.current, { scale: 2 });
-      const imgData = canvas.toDataURL('image/jpeg', 1.0);
+      // jsPDF is a named export in Vite's browser bundle. html2canvas is a default export.
+      const jsPDF = jsPdfModule.jsPDF;
+      const html2canvas = html2canvasModule.default;
+      if (!jsPDF || !html2canvas) {
+        throw new Error('The PDF generator could not be loaded.');
+      }
+
+      const canvas = await html2canvas(report, {
+        backgroundColor: '#0b1120',
+        scale: 2,
+        useCORS: true,
+        logging: false,
+        windowWidth: report.scrollWidth,
+      });
+
       const pdf = new jsPDF('p', 'mm', 'a4');
       const pdfWidth = pdf.internal.pageSize.getWidth();
-      const pdfHeight = (canvas.height * pdfWidth) / canvas.width;
-      pdf.addImage(imgData, 'JPEG', 0, 0, pdfWidth, pdfHeight);
-      pdf.save(`TrendVision_Forecast_${query.replace(/\s+/g, '_')}.pdf`);
+      const pdfHeight = pdf.internal.pageSize.getHeight();
+      const pageHeightInPixels = Math.floor((pdfHeight * canvas.width) / pdfWidth);
+
+      // Slice the rendered report into pages so content is not truncated on long forecasts.
+      for (let sourceY = 0, pageNumber = 0; sourceY < canvas.height; sourceY += pageHeightInPixels, pageNumber += 1) {
+        const sliceHeight = Math.min(pageHeightInPixels, canvas.height - sourceY);
+        const pageCanvas = document.createElement('canvas');
+        pageCanvas.width = canvas.width;
+        pageCanvas.height = sliceHeight;
+        const context = pageCanvas.getContext('2d');
+        if (!context) throw new Error('Unable to prepare the PDF page.');
+
+        context.drawImage(
+          canvas,
+          0, sourceY, canvas.width, sliceHeight,
+          0, 0, canvas.width, sliceHeight,
+        );
+
+        if (pageNumber > 0) pdf.addPage();
+        const imageHeight = (sliceHeight * pdfWidth) / canvas.width;
+        pdf.addImage(pageCanvas.toDataURL('image/jpeg', 0.95), 'JPEG', 0, 0, pdfWidth, imageHeight, undefined, 'FAST');
+      }
+
+      const safeQuery = prediction.query
+        .trim()
+        .replace(/[^a-z0-9]+/gi, '_')
+        .replace(/^_+|_+$/g, '')
+        .slice(0, 60) || 'forecast';
+      const date = new Date().toISOString().slice(0, 10);
+      pdf.save(`TrendVision_Forecast_${safeQuery}_${date}.pdf`);
       onToast('PDF exported successfully!', 'success');
     } catch (err) {
       console.error(err);
       onToast('Failed to export PDF', 'error');
+    } finally {
+      setIsExporting(false);
     }
   };
 
@@ -376,10 +425,12 @@ export default function AIPredictor({
               <Archive className="w-4 h-4" /> View in Archive
             </button>
             <button
+              type="button"
               onClick={handleExportPDF}
+              disabled={isExporting}
               className="px-4 py-2 bg-[var(--bg-elevated)] hover:bg-[var(--bg-border)] text-[var(--text-primary)] font-semibold text-sm rounded-xl transition cursor-pointer flex items-center gap-2 border border-[var(--bg-border)]"
             >
-              <Download className="w-4 h-4" /> Export PDF
+              <Download className="w-4 h-4" /> {isExporting ? 'Generating PDF...' : 'Export PDF'}
             </button>
             <button
               onClick={resetForm}

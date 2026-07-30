@@ -154,21 +154,53 @@
     },
     {
       "id": "user_2ffea926",
-      "username": "Jeon Jinny",
+      "username": "Baddie10/10",
       "email": "jinnypark207@gmail.com",
       "passwordHash": "053fd8e06b8da4c54f5ebf2c54e6935893ca65fdbecac29d6809c844638eb08a81f7504ff26eef6a1b2daa1968648ab88242425655193e27d2412d19bcf13f84",
       "salt": "469cb965d7c02a60",
-      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Hawking",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Newton",
       "badges": [
         "Trend Novice",
         "First Predictions",
         "Elite Predictor",
         "Grandmaster Oracle"
       ],
-      "streak": 1,
-      "predictionCount": 12,
+      "streak": 2,
+      "predictionCount": 13,
       "themePreference": "light",
-      "lastLoginDate": "2026-06-06"
+      "lastLoginDate": "2026-06-09"
+    },
+    {
+      "id": "user_c248ff26",
+      "username": "Demo user",
+      "email": "demo@gmail.com",
+      "passwordHash": "852fdc891b670720c061fd9fbedaabc89cb6f612b9faee627b276bdabf1b80dc1c1285e460ad7b4516d58a33a655bc79ad95ed2177bdd9f047a6314bf7d64510",
+      "salt": "3fdc415271bd2fc8",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Demo%20user",
+      "badges": [
+        "Trend Novice",
+        "First Predictions"
+      ],
+      "streak": 1,
+      "predictionCount": 1,
+      "themePreference": "dark",
+      "lastLoginDate": "2026-06-10"
+    },
+    {
+      "id": "user_aa5d66db",
+      "username": "tester",
+      "email": "muhammadabdullahf23@nutech.edu.pk",
+      "passwordHash": "33278dd00bb90d74b0ff2d317a4d3520c0ae854a1a2fe1b3f23c9d7ebac433ba9122cdf804dc512cd9e550afca7ea07badcdfa87c0080a2cf530033fa48f7f2e",
+      "salt": "f8d4d2324682901f",
+      "profilePicture": "https://api.dicebear.com/7.x/bottts/svg?seed=Archimedes",
+      "badges": [
+        "Trend Novice",
+        "First Predictions"
+      ],
+      "streak": 1,
+      "predictionCount": 3,
+      "themePreference": "dark",
+      "lastLoginDate": "2026-07-30"
     }
   ],
   "predictions": [
@@ -4058,117 +4090,6 @@
       "createdAt": "2026-06-06T10:47:11.409Z"
     },
     {
-      "id": "pred_caa8a116",
-      "userId": "user_2ffea926",
-      "query": "hot weather",
-      "category": "Climate",
-      "direction": "falling",
-      "confidence": 75,
-      "summary": "Random Forest ensemble voting across 571 feature trees flags a statistically significant decline for hot weather. Majority-vote consensus across sub-models identifies diminishing feature importance and shrinking market-signal amplitude.",
-      "insights": [
-        "98% of trees in the ensemble vote DECLINE, making this one of the highest-consensus falling predictions in this category.",
-        "Substitution-rate and maintenance-cost features dominate the split decisions, contributing 39% of total impurity reduction.",
-        "Historical OOB validation on 2019–2022 cycles shows the model correctly predicted similar declines with 80% accuracy.",
-        "Robust to outliers and non-linear feature interactions — however, can be slow on very high-dimensional real-time streams."
-      ],
-      "keywords": [
-        {
-          "word": "hot weather migration",
-          "trend": "rising",
-          "weight": 92
-        },
-        {
-          "word": "hot weather decline",
-          "trend": "falling",
-          "weight": 23
-        },
-        {
-          "word": "Replacement tech",
-          "trend": "rising",
-          "weight": 94
-        },
-        {
-          "word": "Maintenance overhead",
-          "trend": "stable",
-          "weight": 75
-        }
-      ],
-      "forecastData": [
-        {
-          "month": "Jan",
-          "value": 22
-        },
-        {
-          "month": "Feb",
-          "value": 22
-        },
-        {
-          "month": "Mar",
-          "value": 18
-        },
-        {
-          "month": "Apr",
-          "value": 20
-        },
-        {
-          "month": "May",
-          "value": 17
-        },
-        {
-          "month": "Jun",
-          "value": 17
-        },
-        {
-          "month": "Jul",
-          "value": 17
-        },
-        {
-          "month": "Aug",
-          "value": 18
-        },
-        {
-          "month": "Sep",
-          "value": 13
-        },
-        {
-          "month": "Oct",
-          "value": 14
-        },
-        {
-          "month": "Nov",
-          "value": 16
-        },
-        {
-          "month": "Dec",
-          "value": 13
-        }
-      ],
-      "historicalData": [
-        {
-          "year": "2022",
-          "interest": 90
-        },
-        {
-          "year": "2023",
-          "interest": 74
-        },
-        {
-          "year": "2024",
-          "interest": 56
-        },
-        {
-          "year": "2025",
-          "interest": 40
-        },
-        {
-          "year": "2026",
-          "interest": 29
-        }
-      ],
-      "modelUsed": "Random Forest",
-      "createdAt": "2026-06-06T11:22:56.952Z"
-    },
-    {
       "id": "pred_658c9009",
       "userId": "user_2ffea926",
       "query": "the divorce rate",
@@ -4613,117 +4534,6 @@
       "createdAt": "2026-06-06T11:39:36.854Z"
     },
     {
-      "id": "pred_8d2dcaec",
-      "userId": "user_2ffea926",
-      "query": ".",
-      "category": "Society",
-      "direction": "stable",
-      "confidence": 86,
-      "summary": "Random Forest ensemble analysis rates . as entrenched and mature. Variance between trees is minimal, indicating strong market equilibrium with low sensitivity to external shocks.",
-      "insights": [
-        "Forest consensus for 'stable' reaches 80%, with equal splits between growth and decline trees cancelling out directional bias.",
-        "Top features — 'patent filing rate' and 'enterprise contract renewals' — both show flat year-over-year deltas, reinforcing the equilibrium call.",
-        "Variance across trees is unusually low (σ = 1.2), signalling a deeply mature, low-volatility market phase.",
-        "Robust to outliers and non-linear feature interactions — bear in mind: can be slow on very high-dimensional real-time streams."
-      ],
-      "keywords": [
-        {
-          "word": ". ecosystem",
-          "trend": "stable",
-          "weight": 90
-        },
-        {
-          "word": "Enterprise adoption",
-          "trend": "stable",
-          "weight": 88
-        },
-        {
-          "word": "Innovation pressure",
-          "trend": "rising",
-          "weight": 48
-        },
-        {
-          "word": "Legacy constraints",
-          "trend": "falling",
-          "weight": 44
-        }
-      ],
-      "forecastData": [
-        {
-          "month": "Jan",
-          "value": 45
-        },
-        {
-          "month": "Feb",
-          "value": 43
-        },
-        {
-          "month": "Mar",
-          "value": 47
-        },
-        {
-          "month": "Apr",
-          "value": 49
-        },
-        {
-          "month": "May",
-          "value": 48
-        },
-        {
-          "month": "Jun",
-          "value": 43
-        },
-        {
-          "month": "Jul",
-          "value": 38
-        },
-        {
-          "month": "Aug",
-          "value": 38
-        },
-        {
-          "month": "Sep",
-          "value": 37
-        },
-        {
-          "month": "Oct",
-          "value": 37
-        },
-        {
-          "month": "Nov",
-          "value": 38
-        },
-        {
-          "month": "Dec",
-          "value": 45
-        }
-      ],
-      "historicalData": [
-        {
-          "year": "2022",
-          "interest": 44
-        },
-        {
-          "year": "2023",
-          "interest": 47
-        },
-        {
-          "year": "2024",
-          "interest": 43
-        },
-        {
-          "year": "2025",
-          "interest": 49
-        },
-        {
-          "year": "2026",
-          "interest": 42
-        }
-      ],
-      "modelUsed": "Random Forest",
-      "createdAt": "2026-06-06T20:07:59.790Z"
-    },
-    {
       "id": "pred_89142183",
       "userId": "user_2ffea926",
       "query": "check the json file",
@@ -4833,117 +4643,6 @@
       ],
       "modelUsed": "AutoML",
       "createdAt": "2026-06-06T20:38:45.762Z"
-    },
-    {
-      "id": "pred_3ff234b5",
-      "userId": "user_2ffea926",
-      "query": ".",
-      "category": "Business",
-      "direction": "stable",
-      "confidence": 88,
-      "summary": "Random Forest ensemble analysis rates . as entrenched and mature. Variance between trees is minimal, indicating strong market equilibrium with low sensitivity to external shocks.",
-      "insights": [
-        "Forest consensus for 'stable' reaches 82%, with equal splits between growth and decline trees cancelling out directional bias.",
-        "Top features — 'patent filing rate' and 'enterprise contract renewals' — both show flat year-over-year deltas, reinforcing the equilibrium call.",
-        "Variance across trees is unusually low (σ = 1.1), signalling a deeply mature, low-volatility market phase.",
-        "Robust to outliers and non-linear feature interactions — bear in mind: can be slow on very high-dimensional real-time streams."
-      ],
-      "keywords": [
-        {
-          "word": ". ecosystem",
-          "trend": "stable",
-          "weight": 92
-        },
-        {
-          "word": "Enterprise adoption",
-          "trend": "stable",
-          "weight": 86
-        },
-        {
-          "word": "Innovation pressure",
-          "trend": "rising",
-          "weight": 56
-        },
-        {
-          "word": "Legacy constraints",
-          "trend": "falling",
-          "weight": 42
-        }
-      ],
-      "forecastData": [
-        {
-          "month": "Jan",
-          "value": 44
-        },
-        {
-          "month": "Feb",
-          "value": 51
-        },
-        {
-          "month": "Mar",
-          "value": 50
-        },
-        {
-          "month": "Apr",
-          "value": 54
-        },
-        {
-          "month": "May",
-          "value": 52
-        },
-        {
-          "month": "Jun",
-          "value": 50
-        },
-        {
-          "month": "Jul",
-          "value": 43
-        },
-        {
-          "month": "Aug",
-          "value": 41
-        },
-        {
-          "month": "Sep",
-          "value": 38
-        },
-        {
-          "month": "Oct",
-          "value": 41
-        },
-        {
-          "month": "Nov",
-          "value": 41
-        },
-        {
-          "month": "Dec",
-          "value": 43
-        }
-      ],
-      "historicalData": [
-        {
-          "year": "2022",
-          "interest": 38
-        },
-        {
-          "year": "2023",
-          "interest": 46
-        },
-        {
-          "year": "2024",
-          "interest": 43
-        },
-        {
-          "year": "2025",
-          "interest": 44
-        },
-        {
-          "year": "2026",
-          "interest": 46
-        }
-      ],
-      "modelUsed": "AutoML",
-      "createdAt": "2026-06-06T20:44:44.493Z"
     },
     {
       "id": "pred_812254c3",
@@ -5277,6 +4976,1299 @@
       ],
       "modelUsed": "Random Forest",
       "createdAt": "2026-06-06T21:36:36.362Z"
+    },
+    {
+      "id": "pred_a6f17317",
+      "userId": "user_2ffea926",
+      "query": "web hosting",
+      "category": "Climate",
+      "direction": "stable",
+      "confidence": 87,
+      "summary": "Random Forest ensemble analysis rates web hosting as entrenched and mature. Variance between trees is minimal, indicating strong market equilibrium with low sensitivity to external shocks.",
+      "insights": [
+        "Forest consensus for 'stable' reaches 84%, with equal splits between growth and decline trees cancelling out directional bias.",
+        "Top features — 'patent filing rate' and 'enterprise contract renewals' — both show flat year-over-year deltas, reinforcing the equilibrium call.",
+        "Variance across trees is unusually low (σ = 0.8), signalling a deeply mature, low-volatility market phase.",
+        "Robust to outliers and non-linear feature interactions — bear in mind: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "web hosting ecosystem",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 84
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 58
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 42
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 55
+        },
+        {
+          "month": "Feb",
+          "value": 57
+        },
+        {
+          "month": "Mar",
+          "value": 62
+        },
+        {
+          "month": "Apr",
+          "value": 58
+        },
+        {
+          "month": "May",
+          "value": 59
+        },
+        {
+          "month": "Jun",
+          "value": 57
+        },
+        {
+          "month": "Jul",
+          "value": 53
+        },
+        {
+          "month": "Aug",
+          "value": 47
+        },
+        {
+          "month": "Sep",
+          "value": 50
+        },
+        {
+          "month": "Oct",
+          "value": 49
+        },
+        {
+          "month": "Nov",
+          "value": 54
+        },
+        {
+          "month": "Dec",
+          "value": 51
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 47
+        },
+        {
+          "year": "2023",
+          "interest": 55
+        },
+        {
+          "year": "2024",
+          "interest": 55
+        },
+        {
+          "year": "2025",
+          "interest": 56
+        },
+        {
+          "year": "2026",
+          "interest": 54
+        }
+      ],
+      "modelUsed": "AutoML",
+      "createdAt": "2026-06-08T06:04:19.840Z"
+    },
+    {
+      "id": "pred_6bd56083",
+      "userId": "user_2ffea926",
+      "query": "cyber security",
+      "category": "Society",
+      "direction": "stable",
+      "confidence": 78,
+      "summary": "Random Forest ensemble analysis rates cyber security as entrenched and mature. Variance between trees is minimal, indicating strong market equilibrium with low sensitivity to external shocks.",
+      "insights": [
+        "Forest consensus for 'stable' reaches 78%, with equal splits between growth and decline trees cancelling out directional bias.",
+        "Top features — 'patent filing rate' and 'enterprise contract renewals' — both show flat year-over-year deltas, reinforcing the equilibrium call.",
+        "Variance across trees is unusually low (σ = 1.0), signalling a deeply mature, low-volatility market phase.",
+        "Robust to outliers and non-linear feature interactions — bear in mind: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "cyber security ecosystem",
+          "trend": "stable",
+          "weight": 94
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 86
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 58
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 36
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 38
+        },
+        {
+          "month": "Feb",
+          "value": 38
+        },
+        {
+          "month": "Mar",
+          "value": 43
+        },
+        {
+          "month": "Apr",
+          "value": 44
+        },
+        {
+          "month": "May",
+          "value": 43
+        },
+        {
+          "month": "Jun",
+          "value": 39
+        },
+        {
+          "month": "Jul",
+          "value": 36
+        },
+        {
+          "month": "Aug",
+          "value": 31
+        },
+        {
+          "month": "Sep",
+          "value": 33
+        },
+        {
+          "month": "Oct",
+          "value": 30
+        },
+        {
+          "month": "Nov",
+          "value": 34
+        },
+        {
+          "month": "Dec",
+          "value": 38
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 37
+        },
+        {
+          "year": "2023",
+          "interest": 41
+        },
+        {
+          "year": "2024",
+          "interest": 37
+        },
+        {
+          "year": "2025",
+          "interest": 42
+        },
+        {
+          "year": "2026",
+          "interest": 37
+        }
+      ],
+      "modelUsed": "AutoML",
+      "createdAt": "2026-06-09T10:03:03.833Z"
+    },
+    {
+      "id": "pred_d983c9ee",
+      "userId": "user_2ffea926",
+      "query": "hotness over time",
+      "category": "Climate",
+      "direction": "falling",
+      "confidence": 83,
+      "summary": "Random Forest ensemble voting across 524 feature trees flags a statistically significant decline for hotness over time. Majority-vote consensus across sub-models identifies diminishing feature importance and shrinking market-signal amplitude.",
+      "insights": [
+        "91% of trees in the ensemble vote DECLINE, making this one of the highest-consensus falling predictions in this category.",
+        "Substitution-rate and maintenance-cost features dominate the split decisions, contributing 42% of total impurity reduction.",
+        "Historical OOB validation on 2019–2022 cycles shows the model correctly predicted similar declines with 83% accuracy.",
+        "Robust to outliers and non-linear feature interactions — however, can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "hotness over time migration",
+          "trend": "rising",
+          "weight": 85
+        },
+        {
+          "word": "hotness over time decline",
+          "trend": "falling",
+          "weight": 26
+        },
+        {
+          "word": "Replacement tech",
+          "trend": "rising",
+          "weight": 87
+        },
+        {
+          "word": "Maintenance overhead",
+          "trend": "stable",
+          "weight": 68
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 14
+        },
+        {
+          "month": "Feb",
+          "value": 12
+        },
+        {
+          "month": "Mar",
+          "value": 10
+        },
+        {
+          "month": "Apr",
+          "value": 6
+        },
+        {
+          "month": "May",
+          "value": 9
+        },
+        {
+          "month": "Jun",
+          "value": 8
+        },
+        {
+          "month": "Jul",
+          "value": 5
+        },
+        {
+          "month": "Aug",
+          "value": 5
+        },
+        {
+          "month": "Sep",
+          "value": 6
+        },
+        {
+          "month": "Oct",
+          "value": 5
+        },
+        {
+          "month": "Nov",
+          "value": 5
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 78
+        },
+        {
+          "year": "2023",
+          "interest": 62
+        },
+        {
+          "year": "2024",
+          "interest": 42
+        },
+        {
+          "year": "2025",
+          "interest": 30
+        },
+        {
+          "year": "2026",
+          "interest": 17
+        }
+      ],
+      "modelUsed": "AutoML",
+      "createdAt": "2026-06-09T14:39:49.767Z"
+    },
+    {
+      "id": "pred_24a2a310",
+      "userId": "user_2ffea926",
+      "query": "hotness over time",
+      "category": "Technology",
+      "direction": "falling",
+      "confidence": 83,
+      "summary": "Random Forest ensemble voting across 524 feature trees flags a statistically significant decline for hotness over time. Majority-vote consensus across sub-models identifies diminishing feature importance and shrinking market-signal amplitude.",
+      "insights": [
+        "91% of trees in the ensemble vote DECLINE, making this one of the highest-consensus falling predictions in this category.",
+        "Substitution-rate and maintenance-cost features dominate the split decisions, contributing 42% of total impurity reduction.",
+        "Historical OOB validation on 2019–2022 cycles shows the model correctly predicted similar declines with 83% accuracy.",
+        "Robust to outliers and non-linear feature interactions — however, can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "hotness over time migration",
+          "trend": "rising",
+          "weight": 85
+        },
+        {
+          "word": "hotness over time decline",
+          "trend": "falling",
+          "weight": 26
+        },
+        {
+          "word": "Replacement tech",
+          "trend": "rising",
+          "weight": 87
+        },
+        {
+          "word": "Maintenance overhead",
+          "trend": "stable",
+          "weight": 68
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 14
+        },
+        {
+          "month": "Feb",
+          "value": 12
+        },
+        {
+          "month": "Mar",
+          "value": 10
+        },
+        {
+          "month": "Apr",
+          "value": 6
+        },
+        {
+          "month": "May",
+          "value": 9
+        },
+        {
+          "month": "Jun",
+          "value": 8
+        },
+        {
+          "month": "Jul",
+          "value": 5
+        },
+        {
+          "month": "Aug",
+          "value": 5
+        },
+        {
+          "month": "Sep",
+          "value": 6
+        },
+        {
+          "month": "Oct",
+          "value": 5
+        },
+        {
+          "month": "Nov",
+          "value": 5
+        },
+        {
+          "month": "Dec",
+          "value": 5
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 78
+        },
+        {
+          "year": "2023",
+          "interest": 62
+        },
+        {
+          "year": "2024",
+          "interest": 42
+        },
+        {
+          "year": "2025",
+          "interest": 30
+        },
+        {
+          "year": "2026",
+          "interest": 17
+        }
+      ],
+      "modelUsed": "AutoML",
+      "createdAt": "2026-06-10T07:29:23.165Z"
+    },
+    {
+      "id": "pred_82d1bba1",
+      "userId": "user_c248ff26",
+      "query": "Ai trends in market",
+      "category": "Technology",
+      "direction": "rising",
+      "confidence": 82,
+      "summary": "Random Forest ensemble analysis across 678 feature trees places Ai trends in market in a strong upward trajectory. Aggregated majority-vote signals confirm accelerating adoption momentum with high inter-tree consensus.",
+      "insights": [
+        "Ensemble agreement rate is 84% — trees trained on 2020–2026 data consistently vote RISE for Ai trends in market, indicating robust cross-period signal.",
+        "Feature importance analysis ranks 'developer search volume' and 'VC deal count' as the top two predictors, together accounting for 49% of variance.",
+        "Out-of-bag (OOB) error rate is 5%, well below the 8% threshold, confirming the model is not overfitting to training noise.",
+        "Robust to outliers and non-linear feature interactions — but note: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "Ai trends in market growth",
+          "trend": "rising",
+          "weight": 90
+        },
+        {
+          "word": "Ai trends in market investment",
+          "trend": "rising",
+          "weight": 88
+        },
+        {
+          "word": "Legacy displacement",
+          "trend": "falling",
+          "weight": 30
+        },
+        {
+          "word": "Market saturation",
+          "trend": "stable",
+          "weight": 63
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 104
+        },
+        {
+          "month": "Feb",
+          "value": 102
+        },
+        {
+          "month": "Mar",
+          "value": 101
+        },
+        {
+          "month": "Apr",
+          "value": 103
+        },
+        {
+          "month": "May",
+          "value": 102
+        },
+        {
+          "month": "Jun",
+          "value": 105
+        },
+        {
+          "month": "Jul",
+          "value": 104
+        },
+        {
+          "month": "Aug",
+          "value": 109
+        },
+        {
+          "month": "Sep",
+          "value": 104
+        },
+        {
+          "month": "Oct",
+          "value": 106
+        },
+        {
+          "month": "Nov",
+          "value": 106
+        },
+        {
+          "month": "Dec",
+          "value": 105
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 34
+        },
+        {
+          "year": "2023",
+          "interest": 51
+        },
+        {
+          "year": "2024",
+          "interest": 70
+        },
+        {
+          "year": "2025",
+          "interest": 87
+        },
+        {
+          "year": "2026",
+          "interest": 99
+        }
+      ],
+      "modelUsed": "AutoML",
+      "createdAt": "2026-06-10T07:51:16.961Z"
+    },
+    {
+      "id": "pred_30c33d03",
+      "userId": "user_aa5d66db",
+      "query": "Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk.",
+      "category": "Healthcare",
+      "direction": "stable",
+      "confidence": 80,
+      "confidenceLower": 70,
+      "confidenceUpper": 88,
+      "riskLevel": "Low",
+      "modelReason": "Selected Neural Network because 3-layer LSTM network trained on 5-year time-series with dropout 0.2.",
+      "summary": "LSTM memory cells for Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk. show persistent low-amplitude oscillations with no directional bias. The network's gating mechanisms (forget gates ~0.5) indicate that historical context does not accumulate toward growth or decline.",
+      "insights": [
+        "LSTM output neurons show oscillating activations with near-zero net drift across the forecast horizon — consistent with a market that shows no directional acceleration.",
+        "Input-gate weights for seasonality features are high (avg. 0.82), indicating Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk. follows predictable annual cycles without trend drift.",
+        "Ensemble of 6 independently trained LSTM seeds all converge on STABLE — inter-model variance of 1.1 percentage points, indicating high prediction robustness.",
+        "Captures long-range temporal dependencies and complex non-linear patterns, noting that requires large labelled datasets and is sensitive to learning rate schedule."
+      ],
+      "keywords": [
+        {
+          "word": "Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk. ecosystem",
+          "trend": "stable",
+          "weight": 88
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 89
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 61
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 33
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 43
+        },
+        {
+          "month": "Feb",
+          "value": 48
+        },
+        {
+          "month": "Mar",
+          "value": 59
+        },
+        {
+          "month": "Apr",
+          "value": 57
+        },
+        {
+          "month": "May",
+          "value": 58
+        },
+        {
+          "month": "Jun",
+          "value": 49
+        },
+        {
+          "month": "Jul",
+          "value": 49
+        },
+        {
+          "month": "Aug",
+          "value": 33
+        },
+        {
+          "month": "Sep",
+          "value": 32
+        },
+        {
+          "month": "Oct",
+          "value": 43
+        },
+        {
+          "month": "Nov",
+          "value": 40
+        },
+        {
+          "month": "Dec",
+          "value": 42
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 40
+        },
+        {
+          "year": "2023",
+          "interest": 53
+        },
+        {
+          "year": "2024",
+          "interest": 50
+        },
+        {
+          "year": "2025",
+          "interest": 46
+        },
+        {
+          "year": "2026",
+          "interest": 44
+        }
+      ],
+      "modelUsed": "Neural Network",
+      "featureImportance": [
+        {
+          "feature": "Search Interest",
+          "importance": 36
+        },
+        {
+          "feature": "Market Adoption",
+          "importance": 36
+        },
+        {
+          "feature": "Funding Velocity",
+          "importance": 26
+        },
+        {
+          "feature": "Regulatory Pressure",
+          "importance": 25
+        }
+      ],
+      "confidenceInterval": [
+        {
+          "month": "Jan",
+          "lower": 34,
+          "upper": 52
+        },
+        {
+          "month": "Feb",
+          "lower": 39,
+          "upper": 57
+        },
+        {
+          "month": "Mar",
+          "lower": 50,
+          "upper": 68
+        },
+        {
+          "month": "Apr",
+          "lower": 48,
+          "upper": 66
+        },
+        {
+          "month": "May",
+          "lower": 49,
+          "upper": 67
+        },
+        {
+          "month": "Jun",
+          "lower": 40,
+          "upper": 58
+        },
+        {
+          "month": "Jul",
+          "lower": 40,
+          "upper": 58
+        },
+        {
+          "month": "Aug",
+          "lower": 24,
+          "upper": 42
+        },
+        {
+          "month": "Sep",
+          "lower": 23,
+          "upper": 41
+        },
+        {
+          "month": "Oct",
+          "lower": 34,
+          "upper": 52
+        },
+        {
+          "month": "Nov",
+          "lower": 31,
+          "upper": 49
+        },
+        {
+          "month": "Dec",
+          "lower": 33,
+          "upper": 51
+        }
+      ],
+      "forecastHorizon": "12 months",
+      "residuals": [
+        {
+          "month": "Jan",
+          "residual": 3
+        },
+        {
+          "month": "Feb",
+          "residual": 3
+        },
+        {
+          "month": "Mar",
+          "residual": 3
+        },
+        {
+          "month": "Apr",
+          "residual": 3
+        },
+        {
+          "month": "May",
+          "residual": 3
+        },
+        {
+          "month": "Jun",
+          "residual": 3
+        },
+        {
+          "month": "Jul",
+          "residual": 3
+        },
+        {
+          "month": "Aug",
+          "residual": 3
+        },
+        {
+          "month": "Sep",
+          "residual": 3
+        },
+        {
+          "month": "Oct",
+          "residual": 3
+        },
+        {
+          "month": "Nov",
+          "residual": 3
+        },
+        {
+          "month": "Dec",
+          "residual": 3
+        }
+      ],
+      "createdAt": "2026-07-30T07:39:09.293Z"
+    },
+    {
+      "id": "pred_fe4a27d5",
+      "userId": "user_aa5d66db",
+      "query": "Cyber security vs Artificial Intelligence",
+      "category": "Technology",
+      "direction": "falling",
+      "confidence": 88,
+      "confidenceLower": 78,
+      "confidenceUpper": 96,
+      "riskLevel": "Low",
+      "modelReason": "Selected Random Forest because ensemble of 500 decision trees averaged with bootstrap aggregation.",
+      "summary": "Random Forest ensemble voting across 529 feature trees flags a statistically significant decline for Cyber security vs Artificial Intelligence. Majority-vote consensus across sub-models identifies diminishing feature importance and shrinking market-signal amplitude.",
+      "insights": [
+        "96% of trees in the ensemble vote DECLINE, making this one of the highest-consensus falling predictions in this category.",
+        "Substitution-rate and maintenance-cost features dominate the split decisions, contributing 47% of total impurity reduction.",
+        "Historical OOB validation on 2019–2022 cycles shows the model correctly predicted similar declines with 88% accuracy.",
+        "Robust to outliers and non-linear feature interactions — however, can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "Cyber security vs Artificial Intelligence migration",
+          "trend": "rising",
+          "weight": 90
+        },
+        {
+          "word": "Cyber security vs Artificial Intelligence decline",
+          "trend": "falling",
+          "weight": 31
+        },
+        {
+          "word": "Replacement tech",
+          "trend": "rising",
+          "weight": 92
+        },
+        {
+          "word": "Maintenance overhead",
+          "trend": "stable",
+          "weight": 73
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 32
+        },
+        {
+          "month": "Feb",
+          "value": 33
+        },
+        {
+          "month": "Mar",
+          "value": 33
+        },
+        {
+          "month": "Apr",
+          "value": 31
+        },
+        {
+          "month": "May",
+          "value": 29
+        },
+        {
+          "month": "Jun",
+          "value": 30
+        },
+        {
+          "month": "Jul",
+          "value": 25
+        },
+        {
+          "month": "Aug",
+          "value": 24
+        },
+        {
+          "month": "Sep",
+          "value": 23
+        },
+        {
+          "month": "Oct",
+          "value": 23
+        },
+        {
+          "month": "Nov",
+          "value": 22
+        },
+        {
+          "month": "Dec",
+          "value": 21
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 94
+        },
+        {
+          "year": "2023",
+          "interest": 82
+        },
+        {
+          "year": "2024",
+          "interest": 65
+        },
+        {
+          "year": "2025",
+          "interest": 46
+        },
+        {
+          "year": "2026",
+          "interest": 38
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "featureImportance": [
+        {
+          "feature": "Search Interest",
+          "importance": 34
+        },
+        {
+          "feature": "Market Adoption",
+          "importance": 24
+        },
+        {
+          "feature": "Funding Velocity",
+          "importance": 24
+        },
+        {
+          "feature": "Regulatory Pressure",
+          "importance": 29
+        }
+      ],
+      "confidenceInterval": [
+        {
+          "month": "Jan",
+          "lower": 26,
+          "upper": 38
+        },
+        {
+          "month": "Feb",
+          "lower": 27,
+          "upper": 39
+        },
+        {
+          "month": "Mar",
+          "lower": 27,
+          "upper": 39
+        },
+        {
+          "month": "Apr",
+          "lower": 25,
+          "upper": 37
+        },
+        {
+          "month": "May",
+          "lower": 23,
+          "upper": 35
+        },
+        {
+          "month": "Jun",
+          "lower": 24,
+          "upper": 36
+        },
+        {
+          "month": "Jul",
+          "lower": 19,
+          "upper": 31
+        },
+        {
+          "month": "Aug",
+          "lower": 18,
+          "upper": 30
+        },
+        {
+          "month": "Sep",
+          "lower": 17,
+          "upper": 29
+        },
+        {
+          "month": "Oct",
+          "lower": 17,
+          "upper": 29
+        },
+        {
+          "month": "Nov",
+          "lower": 16,
+          "upper": 28
+        },
+        {
+          "month": "Dec",
+          "lower": 15,
+          "upper": 27
+        }
+      ],
+      "forecastHorizon": "12 months",
+      "residuals": [
+        {
+          "month": "Jan",
+          "residual": 2
+        },
+        {
+          "month": "Feb",
+          "residual": 2
+        },
+        {
+          "month": "Mar",
+          "residual": 2
+        },
+        {
+          "month": "Apr",
+          "residual": 2
+        },
+        {
+          "month": "May",
+          "residual": 2
+        },
+        {
+          "month": "Jun",
+          "residual": 2
+        },
+        {
+          "month": "Jul",
+          "residual": 2
+        },
+        {
+          "month": "Aug",
+          "residual": 2
+        },
+        {
+          "month": "Sep",
+          "residual": 2
+        },
+        {
+          "month": "Oct",
+          "residual": 2
+        },
+        {
+          "month": "Nov",
+          "residual": 2
+        },
+        {
+          "month": "Dec",
+          "residual": 2
+        }
+      ],
+      "createdAt": "2026-07-30T07:44:04.628Z"
+    },
+    {
+      "id": "pred_d03ec606",
+      "userId": "user_aa5d66db",
+      "query": "Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk.",
+      "category": "Technology",
+      "direction": "stable",
+      "confidence": 78,
+      "confidenceLower": 68,
+      "confidenceUpper": 86,
+      "riskLevel": "Moderate",
+      "modelReason": "Selected Random Forest because ensemble of 500 decision trees averaged with bootstrap aggregation.",
+      "summary": "Random Forest ensemble analysis rates Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk. as entrenched and mature. Variance between trees is minimal, indicating strong market equilibrium with low sensitivity to external shocks.",
+      "insights": [
+        "Forest consensus for 'stable' reaches 81%, with equal splits between growth and decline trees cancelling out directional bias.",
+        "Top features — 'patent filing rate' and 'enterprise contract renewals' — both show flat year-over-year deltas, reinforcing the equilibrium call.",
+        "Variance across trees is unusually low (σ = 1.0), signalling a deeply mature, low-volatility market phase.",
+        "Robust to outliers and non-linear feature interactions — bear in mind: can be slow on very high-dimensional real-time streams."
+      ],
+      "keywords": [
+        {
+          "word": "Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk. ecosystem",
+          "trend": "stable",
+          "weight": 91
+        },
+        {
+          "word": "Enterprise adoption",
+          "trend": "stable",
+          "weight": 89
+        },
+        {
+          "word": "Innovation pressure",
+          "trend": "rising",
+          "weight": 61
+        },
+        {
+          "word": "Legacy constraints",
+          "trend": "falling",
+          "weight": 37
+        }
+      ],
+      "forecastData": [
+        {
+          "month": "Jan",
+          "value": 44
+        },
+        {
+          "month": "Feb",
+          "value": 46
+        },
+        {
+          "month": "Mar",
+          "value": 49
+        },
+        {
+          "month": "Apr",
+          "value": 54
+        },
+        {
+          "month": "May",
+          "value": 48
+        },
+        {
+          "month": "Jun",
+          "value": 48
+        },
+        {
+          "month": "Jul",
+          "value": 44
+        },
+        {
+          "month": "Aug",
+          "value": 40
+        },
+        {
+          "month": "Sep",
+          "value": 43
+        },
+        {
+          "month": "Oct",
+          "value": 43
+        },
+        {
+          "month": "Nov",
+          "value": 41
+        },
+        {
+          "month": "Dec",
+          "value": 46
+        }
+      ],
+      "historicalData": [
+        {
+          "year": "2022",
+          "interest": 46
+        },
+        {
+          "year": "2023",
+          "interest": 50
+        },
+        {
+          "year": "2024",
+          "interest": 50
+        },
+        {
+          "year": "2025",
+          "interest": 49
+        },
+        {
+          "year": "2026",
+          "interest": 46
+        }
+      ],
+      "modelUsed": "Random Forest",
+      "featureImportance": [
+        {
+          "feature": "Search Interest",
+          "importance": 44
+        },
+        {
+          "feature": "Market Adoption",
+          "importance": 34
+        },
+        {
+          "feature": "Funding Velocity",
+          "importance": 34
+        },
+        {
+          "feature": "Regulatory Pressure",
+          "importance": 25
+        }
+      ],
+      "confidenceInterval": [
+        {
+          "month": "Jan",
+          "lower": 38,
+          "upper": 50
+        },
+        {
+          "month": "Feb",
+          "lower": 40,
+          "upper": 52
+        },
+        {
+          "month": "Mar",
+          "lower": 43,
+          "upper": 55
+        },
+        {
+          "month": "Apr",
+          "lower": 48,
+          "upper": 60
+        },
+        {
+          "month": "May",
+          "lower": 42,
+          "upper": 54
+        },
+        {
+          "month": "Jun",
+          "lower": 42,
+          "upper": 54
+        },
+        {
+          "month": "Jul",
+          "lower": 38,
+          "upper": 50
+        },
+        {
+          "month": "Aug",
+          "lower": 34,
+          "upper": 46
+        },
+        {
+          "month": "Sep",
+          "lower": 37,
+          "upper": 49
+        },
+        {
+          "month": "Oct",
+          "lower": 37,
+          "upper": 49
+        },
+        {
+          "month": "Nov",
+          "lower": 35,
+          "upper": 47
+        },
+        {
+          "month": "Dec",
+          "lower": 40,
+          "upper": 52
+        }
+      ],
+      "forecastHorizon": "12 months",
+      "residuals": [
+        {
+          "month": "Jan",
+          "residual": -3
+        },
+        {
+          "month": "Feb",
+          "residual": -3
+        },
+        {
+          "month": "Mar",
+          "residual": -3
+        },
+        {
+          "month": "Apr",
+          "residual": -3
+        },
+        {
+          "month": "May",
+          "residual": -3
+        },
+        {
+          "month": "Jun",
+          "residual": -3
+        },
+        {
+          "month": "Jul",
+          "residual": -3
+        },
+        {
+          "month": "Aug",
+          "residual": -3
+        },
+        {
+          "month": "Sep",
+          "residual": -3
+        },
+        {
+          "month": "Oct",
+          "residual": -3
+        },
+        {
+          "month": "Nov",
+          "residual": -3
+        },
+        {
+          "month": "Dec",
+          "residual": -3
+        }
+      ],
+      "createdAt": "2026-07-30T08:08:14.937Z"
     }
   ],
   "activityLogs": [
@@ -6029,7 +7021,238 @@
       "userId": "user_2ffea926",
       "action": "Updated profile preferences & customized platform settings",
       "timestamp": "2026-06-06T21:37:44.581Z"
+    },
+    {
+      "id": "log_98e0d5a4",
+      "userId": "user_2ffea926",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-08T06:03:27.417Z"
+    },
+    {
+      "id": "log_3213dc17",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"web hosting\" under Climate using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-08T06:04:19.840Z"
+    },
+    {
+      "id": "log_b0d3fe96",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-08T06:05:44.614Z"
+    },
+    {
+      "id": "log_d8136fbf",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-08T06:05:46.347Z"
+    },
+    {
+      "id": "log_a38960c9",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-08T06:05:50.112Z"
+    },
+    {
+      "id": "log_25b32946",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-08T06:05:52.627Z"
+    },
+    {
+      "id": "log_31933347",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-08T06:06:05.068Z"
+    },
+    {
+      "id": "log_84917042",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-08T06:06:06.126Z"
+    },
+    {
+      "id": "log_681f9600",
+      "userId": "user_2ffea926",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-09T07:23:36.237Z"
+    },
+    {
+      "id": "log_3b30aa32",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"cyber security\" under Society using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-09T10:03:03.833Z"
+    },
+    {
+      "id": "log_a336bfc1",
+      "userId": "user_2ffea926",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-09T14:36:18.753Z"
+    },
+    {
+      "id": "log_2d953491",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-09T14:37:08.522Z"
+    },
+    {
+      "id": "log_2910d4be",
+      "userId": "user_2ffea926",
+      "action": "Removed a trend analysis entry from personal archive",
+      "timestamp": "2026-06-09T14:38:58.337Z"
+    },
+    {
+      "id": "log_a4368011",
+      "userId": "user_2ffea926",
+      "action": "Removed a trend analysis entry from personal archive",
+      "timestamp": "2026-06-09T14:39:03.524Z"
+    },
+    {
+      "id": "log_e99760c8",
+      "userId": "user_2ffea926",
+      "action": "Removed a trend analysis entry from personal archive",
+      "timestamp": "2026-06-09T14:39:26.804Z"
+    },
+    {
+      "id": "log_14226895",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"hotness over time\" under Climate using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-09T14:39:49.767Z"
+    },
+    {
+      "id": "log_794681ae",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-09T14:41:30.796Z"
+    },
+    {
+      "id": "log_bb56ef41",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-09T14:41:43.152Z"
+    },
+    {
+      "id": "log_7078823c",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-09T14:41:59.916Z"
+    },
+    {
+      "id": "log_eb131bb6",
+      "userId": "user_2ffea926",
+      "action": "Logged into TrendVision AI platform",
+      "timestamp": "2026-06-09T15:14:32.387Z"
+    },
+    {
+      "id": "log_423ed06f",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-10T05:49:08.350Z"
+    },
+    {
+      "id": "log_e4675c7c",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-10T05:49:10.384Z"
+    },
+    {
+      "id": "log_019f64aa",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-10T05:49:11.973Z"
+    },
+    {
+      "id": "log_c186c41d",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-10T05:49:12.940Z"
+    },
+    {
+      "id": "log_8401dcf8",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-10T05:49:13.936Z"
+    },
+    {
+      "id": "log_c3d50afc",
+      "userId": "user_2ffea926",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-06-10T05:49:14.979Z"
+    },
+    {
+      "id": "log_24979c4a",
+      "userId": "user_2ffea926",
+      "action": "Analyzed \"hotness over time\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-10T07:29:23.165Z"
+    },
+    {
+      "id": "log_1335b033",
+      "userId": "user_c248ff26",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-06-10T07:44:47.817Z"
+    },
+    {
+      "id": "log_e6485b7a",
+      "userId": "user_c248ff26",
+      "action": "Analyzed \"Ai trends in market\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-06-10T07:51:16.961Z"
+    },
+    {
+      "id": "log_41933c15",
+      "userId": "user_aa5d66db",
+      "action": "Created trend accountability account",
+      "timestamp": "2026-07-30T06:44:19.819Z"
+    },
+    {
+      "id": "log_61e10bfc",
+      "userId": "user_aa5d66db",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-07-30T06:44:46.456Z"
+    },
+    {
+      "id": "log_1e87d38a",
+      "userId": "user_aa5d66db",
+      "action": "Updated profile preferences & customized platform settings",
+      "timestamp": "2026-07-30T07:34:46.239Z"
+    },
+    {
+      "id": "log_97951f33",
+      "userId": "user_aa5d66db",
+      "action": "Analyzed \"Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk.\" under Healthcare using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-07-30T07:39:09.293Z"
+    },
+    {
+      "id": "log_bf314eb0",
+      "userId": "user_aa5d66db",
+      "action": "Analyzed \"Cyber security vs Artificial Intelligence\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-07-30T07:44:04.628Z"
+    },
+    {
+      "id": "log_76b2b249",
+      "userId": "user_aa5d66db",
+      "action": "Analyzed \"Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk.\" under Technology using Fallback Engine (API Quota Limit Encountered)",
+      "timestamp": "2026-07-30T08:08:14.937Z"
     }
   ],
-  "watchlist": []
+  "watchlist": [
+    {
+      "id": "watch_53105ecf",
+      "userId": "user_2ffea926",
+      "query": "hotness over time",
+      "category": "Technology",
+      "addedAt": "2026-06-09T17:28:44.589Z",
+      "lastChecked": null
+    },
+    {
+      "id": "watch_357a3a0b",
+      "userId": "user_aa5d66db",
+      "query": "Why? High glucose, high BMI, elevated blood pressure, family history, and low physical activity indicate higher risk.",
+      "category": "Technology",
+      "addedAt": "2026-07-30T07:42:53.534Z",
+      "lastChecked": null
+    }
+  ],
+  "models": [],
+  "datasets": [],
+  "metrics": [],
+  "visualizations": []
 }

@@ -1,0 +1,51 @@
+Trend Vision AI - Run Instructions
+==================================
+
+Requirements
+------------
+- Node.js 20 or newer (Node.js 22 LTS recommended)
+- npm (installed with Node.js)
+- A Gemini API key if you want to use Gemini-powered features
+
+First-time setup
+----------------
+1. Open a terminal in this project folder.
+2. Install the project dependencies:
+
+   npm install
+
+3. Create a file named .env in the project root and add your settings. Example:
+
+   GEMINI_API_KEY=your_gemini_api_key
+   JWT_SECRET=replace_with_a_long_random_secret
+   PORT=3000
+   NODE_ENV=development
+
+Run in development mode
+-----------------------
+
+   npm run dev
+
+Then open the address printed in the terminal (normally http://localhost:3000).
+To stop the server, press Ctrl+C in that terminal.
+
+Run a production build
+----------------------
+1. Build the application:
+
+   npm run build
+
+2. Start the built server:
+
+   npm start
+
+Optional checks
+---------------
+- Type-check the project: npm run lint
+- Run tests (if the test files are present): npm test
+
+Troubleshooting
+---------------
+- If a port is already in use, change PORT in .env (for example, PORT=3001).
+- If npm install fails, confirm Node.js is installed by running: node --version
+- Never commit .env because it can contain private keys and secrets.
