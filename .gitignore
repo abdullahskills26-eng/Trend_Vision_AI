@@ -1,8 +1,35 @@
+# Dependencies and build output
 node_modules/
 build/
 dist/
 coverage/
-.DS_Store
-*.log
-.env*
+.nyc_output/
+.vite/
+
+# Environment files and local secrets
+.env
+.env.*
 !.env.example
+
+# Logs and diagnostics
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.pid
+*.pid.lock
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Tooling caches and generated files
+.cache/
+.parcel-cache/
+.npm/
+.eslintcache
+*.tsbuildinfo
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Operating-system and editor files
+.DS_Store
+.vscode-test/
